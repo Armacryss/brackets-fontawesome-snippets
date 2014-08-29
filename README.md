@@ -11,7 +11,8 @@ Install [Brackets](http://brackets.io/)
 Install [Brackets Snippets](https://github.com/jrowny/brackets-snippets) *( 'File > Extension Manager' )*
 
 Navigate to `~/.config/Brackets/extensions/user/jrowny.brackets.snippets/` (Linux users)
-Or use *( 'Help > Show Extensions folder' )*
+
+Or use *'Help > Show Extensions folder'*
 
 1. Add 'fontawesome.snippets.json' to `data/`
 2. Reload Brackets with extensions ( ⌘ + R => Mac Users, F5 => Linux Users )
