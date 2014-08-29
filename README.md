@@ -1,6 +1,6 @@
 brackets-fontawesome-snippets
 =============================
-Font Awesome (4.2) snippets for the Snippet extension for Brackets
+Font Awesome (4.2) snippets for the *Snippet extension for Brackets*
 
 ---
 
