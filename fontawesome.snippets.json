@@ -1,0 +1,3295 @@
+[{
+	"name": "Font awesome - adjust",
+	"trigger": "fa-adjust",
+	"usage": "fa-adjust",
+	"description": "fa-adjust",
+	"template": "<i class=\"fa fa-adjust\"></i> "
+}, {
+	"name": "Font awesome - adn",
+	"trigger": "fa-adn",
+	"usage": "fa-adn",
+	"description": "fa-adn",
+	"template": "<i class=\"fa fa-adn\"></i> "
+}, {
+	"name": "Font awesome - align-center",
+	"trigger": "fa-align-center",
+	"usage": "fa-align-center",
+	"description": "fa-align-center",
+	"template": "<i class=\"fa fa-align-center\"></i> "
+}, {
+	"name": "Font awesome - align-justify",
+	"trigger": "fa-align-justify",
+	"usage": "fa-align-justify",
+	"description": "fa-align-justify",
+	"template": "<i class=\"fa fa-align-justify\"></i> "
+}, {
+	"name": "Font awesome - align-left",
+	"trigger": "fa-align-left",
+	"usage": "fa-align-left",
+	"description": "fa-align-left",
+	"template": "<i class=\"fa fa-align-left\"></i> "
+}, {
+	"name": "Font awesome - align-right",
+	"trigger": "fa-align-right",
+	"usage": "fa-align-right",
+	"description": "fa-align-right",
+	"template": "<i class=\"fa fa-align-right\"></i> "
+}, {
+	"name": "Font awesome - ambulance",
+	"trigger": "fa-ambulance",
+	"usage": "fa-ambulance",
+	"description": "fa-ambulance",
+	"template": "<i class=\"fa fa-ambulance\"></i> "
+}, {
+	"name": "Font awesome - anchor",
+	"trigger": "fa-anchor",
+	"usage": "fa-anchor",
+	"description": "fa-anchor",
+	"template": "<i class=\"fa fa-anchor\"></i> "
+}, {
+	"name": "Font awesome - android",
+	"trigger": "fa-android",
+	"usage": "fa-android",
+	"description": "fa-android",
+	"template": "<i class=\"fa fa-android\"></i> "
+}, {
+	"name": "Font awesome - angellist",
+	"trigger": "fa-angellist",
+	"usage": "fa-angellist",
+	"description": "fa-angellist",
+	"template": "<i class=\"fa fa-angellist\"></i> "
+}, {
+	"name": "Font awesome - angle-double-down",
+	"trigger": "fa-angle-double-down",
+	"usage": "fa-angle-double-down",
+	"description": "fa-angle-double-down",
+	"template": "<i class=\"fa fa-angle-double-down\"></i> "
+}, {
+	"name": "Font awesome - angle-double-left",
+	"trigger": "fa-angle-double-left",
+	"usage": "fa-angle-double-left",
+	"description": "fa-angle-double-left",
+	"template": "<i class=\"fa fa-angle-double-left\"></i> "
+}, {
+	"name": "Font awesome - angle-double-right",
+	"trigger": "fa-angle-double-right",
+	"usage": "fa-angle-double-right",
+	"description": "fa-angle-double-right",
+	"template": "<i class=\"fa fa-angle-double-right\"></i> "
+}, {
+	"name": "Font awesome - angle-double-up",
+	"trigger": "fa-angle-double-up",
+	"usage": "fa-angle-double-up",
+	"description": "fa-angle-double-up",
+	"template": "<i class=\"fa fa-angle-double-up\"></i> "
+}, {
+	"name": "Font awesome - angle-down",
+	"trigger": "fa-angle-down",
+	"usage": "fa-angle-down",
+	"description": "fa-angle-down",
+	"template": "<i class=\"fa fa-angle-down\"></i> "
+}, {
+	"name": "Font awesome - angle-left",
+	"trigger": "fa-angle-left",
+	"usage": "fa-angle-left",
+	"description": "fa-angle-left",
+	"template": "<i class=\"fa fa-angle-left\"></i> "
+}, {
+	"name": "Font awesome - angle-right",
+	"trigger": "fa-angle-right",
+	"usage": "fa-angle-right",
+	"description": "fa-angle-right",
+	"template": "<i class=\"fa fa-angle-right\"></i> "
+}, {
+	"name": "Font awesome - angle-up",
+	"trigger": "fa-angle-up",
+	"usage": "fa-angle-up",
+	"description": "fa-angle-up",
+	"template": "<i class=\"fa fa-angle-up\"></i> "
+}, {
+	"name": "Font awesome - apple",
+	"trigger": "fa-apple",
+	"usage": "fa-apple",
+	"description": "fa-apple",
+	"template": "<i class=\"fa fa-apple\"></i> "
+}, {
+	"name": "Font awesome - archive",
+	"trigger": "fa-archive",
+	"usage": "fa-archive",
+	"description": "fa-archive",
+	"template": "<i class=\"fa fa-archive\"></i> "
+}, {
+	"name": "Font awesome - area-chart",
+	"trigger": "fa-area-chart",
+	"usage": "fa-area-chart",
+	"description": "fa-area-chart",
+	"template": "<i class=\"fa fa-area-chart\"></i> "
+}, {
+	"name": "Font awesome - arrow-circle-down",
+	"trigger": "fa-arrow-circle-down",
+	"usage": "fa-arrow-circle-down",
+	"description": "fa-arrow-circle-down",
+	"template": "<i class=\"fa fa-arrow-circle-down\"></i> "
+}, {
+	"name": "Font awesome - arrow-circle-left",
+	"trigger": "fa-arrow-circle-left",
+	"usage": "fa-arrow-circle-left",
+	"description": "fa-arrow-circle-left",
+	"template": "<i class=\"fa fa-arrow-circle-left\"></i> "
+}, {
+	"name": "Font awesome - arrow-circle-o-down",
+	"trigger": "fa-arrow-circle-o-down",
+	"usage": "fa-arrow-circle-o-down",
+	"description": "fa-arrow-circle-o-down",
+	"template": "<i class=\"fa fa-arrow-circle-o-down\"></i> "
+}, {
+	"name": "Font awesome - arrow-circle-o-left",
+	"trigger": "fa-arrow-circle-o-left",
+	"usage": "fa-arrow-circle-o-left",
+	"description": "fa-arrow-circle-o-left",
+	"template": "<i class=\"fa fa-arrow-circle-o-left\"></i> "
+}, {
+	"name": "Font awesome - arrow-circle-o-right",
+	"trigger": "fa-arrow-circle-o-right",
+	"usage": "fa-arrow-circle-o-right",
+	"description": "fa-arrow-circle-o-right",
+	"template": "<i class=\"fa fa-arrow-circle-o-right\"></i> "
+}, {
+	"name": "Font awesome - arrow-circle-o-up",
+	"trigger": "fa-arrow-circle-o-up",
+	"usage": "fa-arrow-circle-o-up",
+	"description": "fa-arrow-circle-o-up",
+	"template": "<i class=\"fa fa-arrow-circle-o-up\"></i> "
+}, {
+	"name": "Font awesome - arrow-circle-right",
+	"trigger": "fa-arrow-circle-right",
+	"usage": "fa-arrow-circle-right",
+	"description": "fa-arrow-circle-right",
+	"template": "<i class=\"fa fa-arrow-circle-right\"></i> "
+}, {
+	"name": "Font awesome - arrow-circle-up",
+	"trigger": "fa-arrow-circle-up",
+	"usage": "fa-arrow-circle-up",
+	"description": "fa-arrow-circle-up",
+	"template": "<i class=\"fa fa-arrow-circle-up\"></i> "
+}, {
+	"name": "Font awesome - arrow-down",
+	"trigger": "fa-arrow-down",
+	"usage": "fa-arrow-down",
+	"description": "fa-arrow-down",
+	"template": "<i class=\"fa fa-arrow-down\"></i> "
+}, {
+	"name": "Font awesome - arrow-left",
+	"trigger": "fa-arrow-left",
+	"usage": "fa-arrow-left",
+	"description": "fa-arrow-left",
+	"template": "<i class=\"fa fa-arrow-left\"></i> "
+}, {
+	"name": "Font awesome - arrow-right",
+	"trigger": "fa-arrow-right",
+	"usage": "fa-arrow-right",
+	"description": "fa-arrow-right",
+	"template": "<i class=\"fa fa-arrow-right\"></i> "
+}, {
+	"name": "Font awesome - arrow-up",
+	"trigger": "fa-arrow-up",
+	"usage": "fa-arrow-up",
+	"description": "fa-arrow-up",
+	"template": "<i class=\"fa fa-arrow-up\"></i> "
+}, {
+	"name": "Font awesome - arrows",
+	"trigger": "fa-arrows",
+	"usage": "fa-arrows",
+	"description": "fa-arrows",
+	"template": "<i class=\"fa fa-arrows\"></i> "
+}, {
+	"name": "Font awesome - arrows-alt",
+	"trigger": "fa-arrows-alt",
+	"usage": "fa-arrows-alt",
+	"description": "fa-arrows-alt",
+	"template": "<i class=\"fa fa-arrows-alt\"></i> "
+}, {
+	"name": "Font awesome - arrows-h",
+	"trigger": "fa-arrows-h",
+	"usage": "fa-arrows-h",
+	"description": "fa-arrows-h",
+	"template": "<i class=\"fa fa-arrows-h\"></i> "
+}, {
+	"name": "Font awesome - arrows-v",
+	"trigger": "fa-arrows-v",
+	"usage": "fa-arrows-v",
+	"description": "fa-arrows-v",
+	"template": "<i class=\"fa fa-arrows-v\"></i> "
+}, {
+	"name": "Font awesome - asterisk",
+	"trigger": "fa-asterisk",
+	"usage": "fa-asterisk",
+	"description": "fa-asterisk",
+	"template": "<i class=\"fa fa-asterisk\"></i> "
+}, {
+	"name": "Font awesome - at",
+	"trigger": "fa-at",
+	"usage": "fa-at",
+	"description": "fa-at",
+	"template": "<i class=\"fa fa-at\"></i> "
+}, {
+	"name": "Font awesome - automobile",
+	"trigger": "fa-automobile",
+	"usage": "fa-automobile",
+	"description": "fa-automobile",
+	"template": "<i class=\"fa fa-automobile\"></i> "
+}, {
+	"name": "Font awesome - backward",
+	"trigger": "fa-backward",
+	"usage": "fa-backward",
+	"description": "fa-backward",
+	"template": "<i class=\"fa fa-backward\"></i> "
+}, {
+	"name": "Font awesome - ban",
+	"trigger": "fa-ban",
+	"usage": "fa-ban",
+	"description": "fa-ban",
+	"template": "<i class=\"fa fa-ban\"></i> "
+}, {
+	"name": "Font awesome - bank",
+	"trigger": "fa-bank",
+	"usage": "fa-bank",
+	"description": "fa-bank",
+	"template": "<i class=\"fa fa-bank\"></i> "
+}, {
+	"name": "Font awesome - bar-chart",
+	"trigger": "fa-bar-chart",
+	"usage": "fa-bar-chart",
+	"description": "fa-bar-chart",
+	"template": "<i class=\"fa fa-bar-chart\"></i> "
+}, {
+	"name": "Font awesome - bar-chart-o",
+	"trigger": "fa-bar-chart-o",
+	"usage": "fa-bar-chart-o",
+	"description": "fa-bar-chart-o",
+	"template": "<i class=\"fa fa-bar-chart-o\"></i> "
+}, {
+	"name": "Font awesome - barcode",
+	"trigger": "fa-barcode",
+	"usage": "fa-barcode",
+	"description": "fa-barcode",
+	"template": "<i class=\"fa fa-barcode\"></i> "
+}, {
+	"name": "Font awesome - bars",
+	"trigger": "fa-bars",
+	"usage": "fa-bars",
+	"description": "fa-bars",
+	"template": "<i class=\"fa fa-bars\"></i> "
+}, {
+	"name": "Font awesome - beer",
+	"trigger": "fa-beer",
+	"usage": "fa-beer",
+	"description": "fa-beer",
+	"template": "<i class=\"fa fa-beer\"></i> "
+}, {
+	"name": "Font awesome - behance",
+	"trigger": "fa-behance",
+	"usage": "fa-behance",
+	"description": "fa-behance",
+	"template": "<i class=\"fa fa-behance\"></i> "
+}, {
+	"name": "Font awesome - behance-square",
+	"trigger": "fa-behance-square",
+	"usage": "fa-behance-square",
+	"description": "fa-behance-square",
+	"template": "<i class=\"fa fa-behance-square\"></i> "
+}, {
+	"name": "Font awesome - bell",
+	"trigger": "fa-bell",
+	"usage": "fa-bell",
+	"description": "fa-bell",
+	"template": "<i class=\"fa fa-bell\"></i> "
+}, {
+	"name": "Font awesome - bell-o",
+	"trigger": "fa-bell-o",
+	"usage": "fa-bell-o",
+	"description": "fa-bell-o",
+	"template": "<i class=\"fa fa-bell-o\"></i> "
+}, {
+	"name": "Font awesome - bell-slash",
+	"trigger": "fa-bell-slash",
+	"usage": "fa-bell-slash",
+	"description": "fa-bell-slash",
+	"template": "<i class=\"fa fa-bell-slash\"></i> "
+}, {
+	"name": "Font awesome - bell-slash-o",
+	"trigger": "fa-bell-slash-o",
+	"usage": "fa-bell-slash-o",
+	"description": "fa-bell-slash-o",
+	"template": "<i class=\"fa fa-bell-slash-o\"></i> "
+}, {
+	"name": "Font awesome - bicycle",
+	"trigger": "fa-bicycle",
+	"usage": "fa-bicycle",
+	"description": "fa-bicycle",
+	"template": "<i class=\"fa fa-bicycle\"></i> "
+}, {
+	"name": "Font awesome - binoculars",
+	"trigger": "fa-binoculars",
+	"usage": "fa-binoculars",
+	"description": "fa-binoculars",
+	"template": "<i class=\"fa fa-binoculars\"></i> "
+}, {
+	"name": "Font awesome - birthday-cake",
+	"trigger": "fa-birthday-cake",
+	"usage": "fa-birthday-cake",
+	"description": "fa-birthday-cake",
+	"template": "<i class=\"fa fa-birthday-cake\"></i> "
+}, {
+	"name": "Font awesome - bitbucket",
+	"trigger": "fa-bitbucket",
+	"usage": "fa-bitbucket",
+	"description": "fa-bitbucket",
+	"template": "<i class=\"fa fa-bitbucket\"></i> "
+}, {
+	"name": "Font awesome - bitbucket-square",
+	"trigger": "fa-bitbucket-square",
+	"usage": "fa-bitbucket-square",
+	"description": "fa-bitbucket-square",
+	"template": "<i class=\"fa fa-bitbucket-square\"></i> "
+}, {
+	"name": "Font awesome - bitcoin",
+	"trigger": "fa-bitcoin",
+	"usage": "fa-bitcoin",
+	"description": "fa-bitcoin",
+	"template": "<i class=\"fa fa-bitcoin\"></i> "
+}, {
+	"name": "Font awesome - bold",
+	"trigger": "fa-bold",
+	"usage": "fa-bold",
+	"description": "fa-bold",
+	"template": "<i class=\"fa fa-bold\"></i> "
+}, {
+	"name": "Font awesome - bolt",
+	"trigger": "fa-bolt",
+	"usage": "fa-bolt",
+	"description": "fa-bolt",
+	"template": "<i class=\"fa fa-bolt\"></i> "
+}, {
+	"name": "Font awesome - bomb",
+	"trigger": "fa-bomb",
+	"usage": "fa-bomb",
+	"description": "fa-bomb",
+	"template": "<i class=\"fa fa-bomb\"></i> "
+}, {
+	"name": "Font awesome - book",
+	"trigger": "fa-book",
+	"usage": "fa-book",
+	"description": "fa-book",
+	"template": "<i class=\"fa fa-book\"></i> "
+}, {
+	"name": "Font awesome - bookmark",
+	"trigger": "fa-bookmark",
+	"usage": "fa-bookmark",
+	"description": "fa-bookmark",
+	"template": "<i class=\"fa fa-bookmark\"></i> "
+}, {
+	"name": "Font awesome - bookmark-o",
+	"trigger": "fa-bookmark-o",
+	"usage": "fa-bookmark-o",
+	"description": "fa-bookmark-o",
+	"template": "<i class=\"fa fa-bookmark-o\"></i> "
+}, {
+	"name": "Font awesome - briefcase",
+	"trigger": "fa-briefcase",
+	"usage": "fa-briefcase",
+	"description": "fa-briefcase",
+	"template": "<i class=\"fa fa-briefcase\"></i> "
+}, {
+	"name": "Font awesome - btc",
+	"trigger": "fa-btc",
+	"usage": "fa-btc",
+	"description": "fa-btc",
+	"template": "<i class=\"fa fa-btc\"></i> "
+}, {
+	"name": "Font awesome - bug",
+	"trigger": "fa-bug",
+	"usage": "fa-bug",
+	"description": "fa-bug",
+	"template": "<i class=\"fa fa-bug\"></i> "
+}, {
+	"name": "Font awesome - building",
+	"trigger": "fa-building",
+	"usage": "fa-building",
+	"description": "fa-building",
+	"template": "<i class=\"fa fa-building\"></i> "
+}, {
+	"name": "Font awesome - building-o",
+	"trigger": "fa-building-o",
+	"usage": "fa-building-o",
+	"description": "fa-building-o",
+	"template": "<i class=\"fa fa-building-o\"></i> "
+}, {
+	"name": "Font awesome - bullhorn",
+	"trigger": "fa-bullhorn",
+	"usage": "fa-bullhorn",
+	"description": "fa-bullhorn",
+	"template": "<i class=\"fa fa-bullhorn\"></i> "
+}, {
+	"name": "Font awesome - bullseye",
+	"trigger": "fa-bullseye",
+	"usage": "fa-bullseye",
+	"description": "fa-bullseye",
+	"template": "<i class=\"fa fa-bullseye\"></i> "
+}, {
+	"name": "Font awesome - bus",
+	"trigger": "fa-bus",
+	"usage": "fa-bus",
+	"description": "fa-bus",
+	"template": "<i class=\"fa fa-bus\"></i> "
+}, {
+	"name": "Font awesome - cab",
+	"trigger": "fa-cab",
+	"usage": "fa-cab",
+	"description": "fa-cab",
+	"template": "<i class=\"fa fa-cab\"></i> "
+}, {
+	"name": "Font awesome - calculator",
+	"trigger": "fa-calculator",
+	"usage": "fa-calculator",
+	"description": "fa-calculator",
+	"template": "<i class=\"fa fa-calculator\"></i> "
+}, {
+	"name": "Font awesome - calendar",
+	"trigger": "fa-calendar",
+	"usage": "fa-calendar",
+	"description": "fa-calendar",
+	"template": "<i class=\"fa fa-calendar\"></i> "
+}, {
+	"name": "Font awesome - calendar-o",
+	"trigger": "fa-calendar-o",
+	"usage": "fa-calendar-o",
+	"description": "fa-calendar-o",
+	"template": "<i class=\"fa fa-calendar-o\"></i> "
+}, {
+	"name": "Font awesome - camera",
+	"trigger": "fa-camera",
+	"usage": "fa-camera",
+	"description": "fa-camera",
+	"template": "<i class=\"fa fa-camera\"></i> "
+}, {
+	"name": "Font awesome - camera-retro",
+	"trigger": "fa-camera-retro",
+	"usage": "fa-camera-retro",
+	"description": "fa-camera-retro",
+	"template": "<i class=\"fa fa-camera-retro\"></i> "
+}, {
+	"name": "Font awesome - car",
+	"trigger": "fa-car",
+	"usage": "fa-car",
+	"description": "fa-car",
+	"template": "<i class=\"fa fa-car\"></i> "
+}, {
+	"name": "Font awesome - caret-down",
+	"trigger": "fa-caret-down",
+	"usage": "fa-caret-down",
+	"description": "fa-caret-down",
+	"template": "<i class=\"fa fa-caret-down\"></i> "
+}, {
+	"name": "Font awesome - caret-left",
+	"trigger": "fa-caret-left",
+	"usage": "fa-caret-left",
+	"description": "fa-caret-left",
+	"template": "<i class=\"fa fa-caret-left\"></i> "
+}, {
+	"name": "Font awesome - caret-right",
+	"trigger": "fa-caret-right",
+	"usage": "fa-caret-right",
+	"description": "fa-caret-right",
+	"template": "<i class=\"fa fa-caret-right\"></i> "
+}, {
+	"name": "Font awesome - caret-square-o-down",
+	"trigger": "fa-caret-square-o-down",
+	"usage": "fa-caret-square-o-down",
+	"description": "fa-caret-square-o-down",
+	"template": "<i class=\"fa fa-caret-square-o-down\"></i> "
+}, {
+	"name": "Font awesome - caret-square-o-left",
+	"trigger": "fa-caret-square-o-left",
+	"usage": "fa-caret-square-o-left",
+	"description": "fa-caret-square-o-left",
+	"template": "<i class=\"fa fa-caret-square-o-left\"></i> "
+}, {
+	"name": "Font awesome - caret-square-o-right",
+	"trigger": "fa-caret-square-o-right",
+	"usage": "fa-caret-square-o-right",
+	"description": "fa-caret-square-o-right",
+	"template": "<i class=\"fa fa-caret-square-o-right\"></i> "
+}, {
+	"name": "Font awesome - caret-square-o-up",
+	"trigger": "fa-caret-square-o-up",
+	"usage": "fa-caret-square-o-up",
+	"description": "fa-caret-square-o-up",
+	"template": "<i class=\"fa fa-caret-square-o-up\"></i> "
+}, {
+	"name": "Font awesome - caret-up",
+	"trigger": "fa-caret-up",
+	"usage": "fa-caret-up",
+	"description": "fa-caret-up",
+	"template": "<i class=\"fa fa-caret-up\"></i> "
+}, {
+	"name": "Font awesome - cc",
+	"trigger": "fa-cc",
+	"usage": "fa-cc",
+	"description": "fa-cc",
+	"template": "<i class=\"fa fa-cc\"></i> "
+}, {
+	"name": "Font awesome - cc-amex",
+	"trigger": "fa-cc-amex",
+	"usage": "fa-cc-amex",
+	"description": "fa-cc-amex",
+	"template": "<i class=\"fa fa-cc-amex\"></i> "
+}, {
+	"name": "Font awesome - cc-discover",
+	"trigger": "fa-cc-discover",
+	"usage": "fa-cc-discover",
+	"description": "fa-cc-discover",
+	"template": "<i class=\"fa fa-cc-discover\"></i> "
+}, {
+	"name": "Font awesome - cc-mastercard",
+	"trigger": "fa-cc-mastercard",
+	"usage": "fa-cc-mastercard",
+	"description": "fa-cc-mastercard",
+	"template": "<i class=\"fa fa-cc-mastercard\"></i> "
+}, {
+	"name": "Font awesome - cc-paypal",
+	"trigger": "fa-cc-paypal",
+	"usage": "fa-cc-paypal",
+	"description": "fa-cc-paypal",
+	"template": "<i class=\"fa fa-cc-paypal\"></i> "
+}, {
+	"name": "Font awesome - cc-stripe",
+	"trigger": "fa-cc-stripe",
+	"usage": "fa-cc-stripe",
+	"description": "fa-cc-stripe",
+	"template": "<i class=\"fa fa-cc-stripe\"></i> "
+}, {
+	"name": "Font awesome - cc-visa",
+	"trigger": "fa-cc-visa",
+	"usage": "fa-cc-visa",
+	"description": "fa-cc-visa",
+	"template": "<i class=\"fa fa-cc-visa\"></i> "
+}, {
+	"name": "Font awesome - certificate",
+	"trigger": "fa-certificate",
+	"usage": "fa-certificate",
+	"description": "fa-certificate",
+	"template": "<i class=\"fa fa-certificate\"></i> "
+}, {
+	"name": "Font awesome - chain",
+	"trigger": "fa-chain",
+	"usage": "fa-chain",
+	"description": "fa-chain",
+	"template": "<i class=\"fa fa-chain\"></i> "
+}, {
+	"name": "Font awesome - chain-broken",
+	"trigger": "fa-chain-broken",
+	"usage": "fa-chain-broken",
+	"description": "fa-chain-broken",
+	"template": "<i class=\"fa fa-chain-broken\"></i> "
+}, {
+	"name": "Font awesome - check",
+	"trigger": "fa-check",
+	"usage": "fa-check",
+	"description": "fa-check",
+	"template": "<i class=\"fa fa-check\"></i> "
+}, {
+	"name": "Font awesome - check-circle",
+	"trigger": "fa-check-circle",
+	"usage": "fa-check-circle",
+	"description": "fa-check-circle",
+	"template": "<i class=\"fa fa-check-circle\"></i> "
+}, {
+	"name": "Font awesome - check-circle-o",
+	"trigger": "fa-check-circle-o",
+	"usage": "fa-check-circle-o",
+	"description": "fa-check-circle-o",
+	"template": "<i class=\"fa fa-check-circle-o\"></i> "
+}, {
+	"name": "Font awesome - check-square",
+	"trigger": "fa-check-square",
+	"usage": "fa-check-square",
+	"description": "fa-check-square",
+	"template": "<i class=\"fa fa-check-square\"></i> "
+}, {
+	"name": "Font awesome - check-square-o",
+	"trigger": "fa-check-square-o",
+	"usage": "fa-check-square-o",
+	"description": "fa-check-square-o",
+	"template": "<i class=\"fa fa-check-square-o\"></i> "
+}, {
+	"name": "Font awesome - chevron-circle-down",
+	"trigger": "fa-chevron-circle-down",
+	"usage": "fa-chevron-circle-down",
+	"description": "fa-chevron-circle-down",
+	"template": "<i class=\"fa fa-chevron-circle-down\"></i> "
+}, {
+	"name": "Font awesome - chevron-circle-left",
+	"trigger": "fa-chevron-circle-left",
+	"usage": "fa-chevron-circle-left",
+	"description": "fa-chevron-circle-left",
+	"template": "<i class=\"fa fa-chevron-circle-left\"></i> "
+}, {
+	"name": "Font awesome - chevron-circle-right",
+	"trigger": "fa-chevron-circle-right",
+	"usage": "fa-chevron-circle-right",
+	"description": "fa-chevron-circle-right",
+	"template": "<i class=\"fa fa-chevron-circle-right\"></i> "
+}, {
+	"name": "Font awesome - chevron-circle-up",
+	"trigger": "fa-chevron-circle-up",
+	"usage": "fa-chevron-circle-up",
+	"description": "fa-chevron-circle-up",
+	"template": "<i class=\"fa fa-chevron-circle-up\"></i> "
+}, {
+	"name": "Font awesome - chevron-down",
+	"trigger": "fa-chevron-down",
+	"usage": "fa-chevron-down",
+	"description": "fa-chevron-down",
+	"template": "<i class=\"fa fa-chevron-down\"></i> "
+}, {
+	"name": "Font awesome - chevron-left",
+	"trigger": "fa-chevron-left",
+	"usage": "fa-chevron-left",
+	"description": "fa-chevron-left",
+	"template": "<i class=\"fa fa-chevron-left\"></i> "
+}, {
+	"name": "Font awesome - chevron-right",
+	"trigger": "fa-chevron-right",
+	"usage": "fa-chevron-right",
+	"description": "fa-chevron-right",
+	"template": "<i class=\"fa fa-chevron-right\"></i> "
+}, {
+	"name": "Font awesome - chevron-up",
+	"trigger": "fa-chevron-up",
+	"usage": "fa-chevron-up",
+	"description": "fa-chevron-up",
+	"template": "<i class=\"fa fa-chevron-up\"></i> "
+}, {
+	"name": "Font awesome - child",
+	"trigger": "fa-child",
+	"usage": "fa-child",
+	"description": "fa-child",
+	"template": "<i class=\"fa fa-child\"></i> "
+}, {
+	"name": "Font awesome - circle",
+	"trigger": "fa-circle",
+	"usage": "fa-circle",
+	"description": "fa-circle",
+	"template": "<i class=\"fa fa-circle\"></i> "
+}, {
+	"name": "Font awesome - circle-o",
+	"trigger": "fa-circle-o",
+	"usage": "fa-circle-o",
+	"description": "fa-circle-o",
+	"template": "<i class=\"fa fa-circle-o\"></i> "
+}, {
+	"name": "Font awesome - circle-o-notch",
+	"trigger": "fa-circle-o-notch",
+	"usage": "fa-circle-o-notch",
+	"description": "fa-circle-o-notch",
+	"template": "<i class=\"fa fa-circle-o-notch\"></i> "
+}, {
+	"name": "Font awesome - circle-thin",
+	"trigger": "fa-circle-thin",
+	"usage": "fa-circle-thin",
+	"description": "fa-circle-thin",
+	"template": "<i class=\"fa fa-circle-thin\"></i> "
+}, {
+	"name": "Font awesome - clipboard",
+	"trigger": "fa-clipboard",
+	"usage": "fa-clipboard",
+	"description": "fa-clipboard",
+	"template": "<i class=\"fa fa-clipboard\"></i> "
+}, {
+	"name": "Font awesome - clock-o",
+	"trigger": "fa-clock-o",
+	"usage": "fa-clock-o",
+	"description": "fa-clock-o",
+	"template": "<i class=\"fa fa-clock-o\"></i> "
+}, {
+	"name": "Font awesome - close",
+	"trigger": "fa-close",
+	"usage": "fa-close",
+	"description": "fa-close",
+	"template": "<i class=\"fa fa-close\"></i> "
+}, {
+	"name": "Font awesome - cloud",
+	"trigger": "fa-cloud",
+	"usage": "fa-cloud",
+	"description": "fa-cloud",
+	"template": "<i class=\"fa fa-cloud\"></i> "
+}, {
+	"name": "Font awesome - cloud-download",
+	"trigger": "fa-cloud-download",
+	"usage": "fa-cloud-download",
+	"description": "fa-cloud-download",
+	"template": "<i class=\"fa fa-cloud-download\"></i> "
+}, {
+	"name": "Font awesome - cloud-upload",
+	"trigger": "fa-cloud-upload",
+	"usage": "fa-cloud-upload",
+	"description": "fa-cloud-upload",
+	"template": "<i class=\"fa fa-cloud-upload\"></i> "
+}, {
+	"name": "Font awesome - cny",
+	"trigger": "fa-cny",
+	"usage": "fa-cny",
+	"description": "fa-cny",
+	"template": "<i class=\"fa fa-cny\"></i> "
+}, {
+	"name": "Font awesome - code",
+	"trigger": "fa-code",
+	"usage": "fa-code",
+	"description": "fa-code",
+	"template": "<i class=\"fa fa-code\"></i> "
+}, {
+	"name": "Font awesome - code-fork",
+	"trigger": "fa-code-fork",
+	"usage": "fa-code-fork",
+	"description": "fa-code-fork",
+	"template": "<i class=\"fa fa-code-fork\"></i> "
+}, {
+	"name": "Font awesome - codepen",
+	"trigger": "fa-codepen",
+	"usage": "fa-codepen",
+	"description": "fa-codepen",
+	"template": "<i class=\"fa fa-codepen\"></i> "
+}, {
+	"name": "Font awesome - coffee",
+	"trigger": "fa-coffee",
+	"usage": "fa-coffee",
+	"description": "fa-coffee",
+	"template": "<i class=\"fa fa-coffee\"></i> "
+}, {
+	"name": "Font awesome - cog",
+	"trigger": "fa-cog",
+	"usage": "fa-cog",
+	"description": "fa-cog",
+	"template": "<i class=\"fa fa-cog\"></i> "
+}, {
+	"name": "Font awesome - cogs",
+	"trigger": "fa-cogs",
+	"usage": "fa-cogs",
+	"description": "fa-cogs",
+	"template": "<i class=\"fa fa-cogs\"></i> "
+}, {
+	"name": "Font awesome - columns",
+	"trigger": "fa-columns",
+	"usage": "fa-columns",
+	"description": "fa-columns",
+	"template": "<i class=\"fa fa-columns\"></i> "
+}, {
+	"name": "Font awesome - comment",
+	"trigger": "fa-comment",
+	"usage": "fa-comment",
+	"description": "fa-comment",
+	"template": "<i class=\"fa fa-comment\"></i> "
+}, {
+	"name": "Font awesome - comment-o",
+	"trigger": "fa-comment-o",
+	"usage": "fa-comment-o",
+	"description": "fa-comment-o",
+	"template": "<i class=\"fa fa-comment-o\"></i> "
+}, {
+	"name": "Font awesome - comments",
+	"trigger": "fa-comments",
+	"usage": "fa-comments",
+	"description": "fa-comments",
+	"template": "<i class=\"fa fa-comments\"></i> "
+}, {
+	"name": "Font awesome - comments-o",
+	"trigger": "fa-comments-o",
+	"usage": "fa-comments-o",
+	"description": "fa-comments-o",
+	"template": "<i class=\"fa fa-comments-o\"></i> "
+}, {
+	"name": "Font awesome - compass",
+	"trigger": "fa-compass",
+	"usage": "fa-compass",
+	"description": "fa-compass",
+	"template": "<i class=\"fa fa-compass\"></i> "
+}, {
+	"name": "Font awesome - compress",
+	"trigger": "fa-compress",
+	"usage": "fa-compress",
+	"description": "fa-compress",
+	"template": "<i class=\"fa fa-compress\"></i> "
+}, {
+	"name": "Font awesome - copy",
+	"trigger": "fa-copy",
+	"usage": "fa-copy",
+	"description": "fa-copy",
+	"template": "<i class=\"fa fa-copy\"></i> "
+}, {
+	"name": "Font awesome - copyright",
+	"trigger": "fa-copyright",
+	"usage": "fa-copyright",
+	"description": "fa-copyright",
+	"template": "<i class=\"fa fa-copyright\"></i> "
+}, {
+	"name": "Font awesome - credit-card",
+	"trigger": "fa-credit-card",
+	"usage": "fa-credit-card",
+	"description": "fa-credit-card",
+	"template": "<i class=\"fa fa-credit-card\"></i> "
+}, {
+	"name": "Font awesome - crop",
+	"trigger": "fa-crop",
+	"usage": "fa-crop",
+	"description": "fa-crop",
+	"template": "<i class=\"fa fa-crop\"></i> "
+}, {
+	"name": "Font awesome - crosshairs",
+	"trigger": "fa-crosshairs",
+	"usage": "fa-crosshairs",
+	"description": "fa-crosshairs",
+	"template": "<i class=\"fa fa-crosshairs\"></i> "
+}, {
+	"name": "Font awesome - css3",
+	"trigger": "fa-css3",
+	"usage": "fa-css3",
+	"description": "fa-css3",
+	"template": "<i class=\"fa fa-css3\"></i> "
+}, {
+	"name": "Font awesome - cube",
+	"trigger": "fa-cube",
+	"usage": "fa-cube",
+	"description": "fa-cube",
+	"template": "<i class=\"fa fa-cube\"></i> "
+}, {
+	"name": "Font awesome - cubes",
+	"trigger": "fa-cubes",
+	"usage": "fa-cubes",
+	"description": "fa-cubes",
+	"template": "<i class=\"fa fa-cubes\"></i> "
+}, {
+	"name": "Font awesome - cut",
+	"trigger": "fa-cut",
+	"usage": "fa-cut",
+	"description": "fa-cut",
+	"template": "<i class=\"fa fa-cut\"></i> "
+}, {
+	"name": "Font awesome - cutlery",
+	"trigger": "fa-cutlery",
+	"usage": "fa-cutlery",
+	"description": "fa-cutlery",
+	"template": "<i class=\"fa fa-cutlery\"></i> "
+}, {
+	"name": "Font awesome - dashboard",
+	"trigger": "fa-dashboard",
+	"usage": "fa-dashboard",
+	"description": "fa-dashboard",
+	"template": "<i class=\"fa fa-dashboard\"></i> "
+}, {
+	"name": "Font awesome - database",
+	"trigger": "fa-database",
+	"usage": "fa-database",
+	"description": "fa-database",
+	"template": "<i class=\"fa fa-database\"></i> "
+}, {
+	"name": "Font awesome - dedent",
+	"trigger": "fa-dedent",
+	"usage": "fa-dedent",
+	"description": "fa-dedent",
+	"template": "<i class=\"fa fa-dedent\"></i> "
+}, {
+	"name": "Font awesome - delicious",
+	"trigger": "fa-delicious",
+	"usage": "fa-delicious",
+	"description": "fa-delicious",
+	"template": "<i class=\"fa fa-delicious\"></i> "
+}, {
+	"name": "Font awesome - desktop",
+	"trigger": "fa-desktop",
+	"usage": "fa-desktop",
+	"description": "fa-desktop",
+	"template": "<i class=\"fa fa-desktop\"></i> "
+}, {
+	"name": "Font awesome - deviantart",
+	"trigger": "fa-deviantart",
+	"usage": "fa-deviantart",
+	"description": "fa-deviantart",
+	"template": "<i class=\"fa fa-deviantart\"></i> "
+}, {
+	"name": "Font awesome - digg",
+	"trigger": "fa-digg",
+	"usage": "fa-digg",
+	"description": "fa-digg",
+	"template": "<i class=\"fa fa-digg\"></i> "
+}, {
+	"name": "Font awesome - dollar",
+	"trigger": "fa-dollar",
+	"usage": "fa-dollar",
+	"description": "fa-dollar",
+	"template": "<i class=\"fa fa-dollar\"></i> "
+}, {
+	"name": "Font awesome - dot-circle-o",
+	"trigger": "fa-dot-circle-o",
+	"usage": "fa-dot-circle-o",
+	"description": "fa-dot-circle-o",
+	"template": "<i class=\"fa fa-dot-circle-o\"></i> "
+}, {
+	"name": "Font awesome - download",
+	"trigger": "fa-download",
+	"usage": "fa-download",
+	"description": "fa-download",
+	"template": "<i class=\"fa fa-download\"></i> "
+}, {
+	"name": "Font awesome - dribbble",
+	"trigger": "fa-dribbble",
+	"usage": "fa-dribbble",
+	"description": "fa-dribbble",
+	"template": "<i class=\"fa fa-dribbble\"></i> "
+}, {
+	"name": "Font awesome - dropbox",
+	"trigger": "fa-dropbox",
+	"usage": "fa-dropbox",
+	"description": "fa-dropbox",
+	"template": "<i class=\"fa fa-dropbox\"></i> "
+}, {
+	"name": "Font awesome - drupal",
+	"trigger": "fa-drupal",
+	"usage": "fa-drupal",
+	"description": "fa-drupal",
+	"template": "<i class=\"fa fa-drupal\"></i> "
+}, {
+	"name": "Font awesome - edit",
+	"trigger": "fa-edit",
+	"usage": "fa-edit",
+	"description": "fa-edit",
+	"template": "<i class=\"fa fa-edit\"></i> "
+}, {
+	"name": "Font awesome - eject",
+	"trigger": "fa-eject",
+	"usage": "fa-eject",
+	"description": "fa-eject",
+	"template": "<i class=\"fa fa-eject\"></i> "
+}, {
+	"name": "Font awesome - ellipsis-h",
+	"trigger": "fa-ellipsis-h",
+	"usage": "fa-ellipsis-h",
+	"description": "fa-ellipsis-h",
+	"template": "<i class=\"fa fa-ellipsis-h\"></i> "
+}, {
+	"name": "Font awesome - ellipsis-v",
+	"trigger": "fa-ellipsis-v",
+	"usage": "fa-ellipsis-v",
+	"description": "fa-ellipsis-v",
+	"template": "<i class=\"fa fa-ellipsis-v\"></i> "
+}, {
+	"name": "Font awesome - empire",
+	"trigger": "fa-empire",
+	"usage": "fa-empire",
+	"description": "fa-empire",
+	"template": "<i class=\"fa fa-empire\"></i> "
+}, {
+	"name": "Font awesome - envelope",
+	"trigger": "fa-envelope",
+	"usage": "fa-envelope",
+	"description": "fa-envelope",
+	"template": "<i class=\"fa fa-envelope\"></i> "
+}, {
+	"name": "Font awesome - envelope-o",
+	"trigger": "fa-envelope-o",
+	"usage": "fa-envelope-o",
+	"description": "fa-envelope-o",
+	"template": "<i class=\"fa fa-envelope-o\"></i> "
+}, {
+	"name": "Font awesome - envelope-square",
+	"trigger": "fa-envelope-square",
+	"usage": "fa-envelope-square",
+	"description": "fa-envelope-square",
+	"template": "<i class=\"fa fa-envelope-square\"></i> "
+}, {
+	"name": "Font awesome - eraser",
+	"trigger": "fa-eraser",
+	"usage": "fa-eraser",
+	"description": "fa-eraser",
+	"template": "<i class=\"fa fa-eraser\"></i> "
+}, {
+	"name": "Font awesome - eur",
+	"trigger": "fa-eur",
+	"usage": "fa-eur",
+	"description": "fa-eur",
+	"template": "<i class=\"fa fa-eur\"></i> "
+}, {
+	"name": "Font awesome - euro",
+	"trigger": "fa-euro",
+	"usage": "fa-euro",
+	"description": "fa-euro",
+	"template": "<i class=\"fa fa-euro\"></i> "
+}, {
+	"name": "Font awesome - exchange",
+	"trigger": "fa-exchange",
+	"usage": "fa-exchange",
+	"description": "fa-exchange",
+	"template": "<i class=\"fa fa-exchange\"></i> "
+}, {
+	"name": "Font awesome - exclamation",
+	"trigger": "fa-exclamation",
+	"usage": "fa-exclamation",
+	"description": "fa-exclamation",
+	"template": "<i class=\"fa fa-exclamation\"></i> "
+}, {
+	"name": "Font awesome - exclamation-circle",
+	"trigger": "fa-exclamation-circle",
+	"usage": "fa-exclamation-circle",
+	"description": "fa-exclamation-circle",
+	"template": "<i class=\"fa fa-exclamation-circle\"></i> "
+}, {
+	"name": "Font awesome - exclamation-triangle",
+	"trigger": "fa-exclamation-triangle",
+	"usage": "fa-exclamation-triangle",
+	"description": "fa-exclamation-triangle",
+	"template": "<i class=\"fa fa-exclamation-triangle\"></i> "
+}, {
+	"name": "Font awesome - expand",
+	"trigger": "fa-expand",
+	"usage": "fa-expand",
+	"description": "fa-expand",
+	"template": "<i class=\"fa fa-expand\"></i> "
+}, {
+	"name": "Font awesome - external-link",
+	"trigger": "fa-external-link",
+	"usage": "fa-external-link",
+	"description": "fa-external-link",
+	"template": "<i class=\"fa fa-external-link\"></i> "
+}, {
+	"name": "Font awesome - external-link-square",
+	"trigger": "fa-external-link-square",
+	"usage": "fa-external-link-square",
+	"description": "fa-external-link-square",
+	"template": "<i class=\"fa fa-external-link-square\"></i> "
+}, {
+	"name": "Font awesome - eye",
+	"trigger": "fa-eye",
+	"usage": "fa-eye",
+	"description": "fa-eye",
+	"template": "<i class=\"fa fa-eye\"></i> "
+}, {
+	"name": "Font awesome - eye-slash",
+	"trigger": "fa-eye-slash",
+	"usage": "fa-eye-slash",
+	"description": "fa-eye-slash",
+	"template": "<i class=\"fa fa-eye-slash\"></i> "
+}, {
+	"name": "Font awesome - eyedropper",
+	"trigger": "fa-eyedropper",
+	"usage": "fa-eyedropper",
+	"description": "fa-eyedropper",
+	"template": "<i class=\"fa fa-eyedropper\"></i> "
+}, {
+	"name": "Font awesome - facebook",
+	"trigger": "fa-facebook",
+	"usage": "fa-facebook",
+	"description": "fa-facebook",
+	"template": "<i class=\"fa fa-facebook\"></i> "
+}, {
+	"name": "Font awesome - facebook-square",
+	"trigger": "fa-facebook-square",
+	"usage": "fa-facebook-square",
+	"description": "fa-facebook-square",
+	"template": "<i class=\"fa fa-facebook-square\"></i> "
+}, {
+	"name": "Font awesome - fast-backward",
+	"trigger": "fa-fast-backward",
+	"usage": "fa-fast-backward",
+	"description": "fa-fast-backward",
+	"template": "<i class=\"fa fa-fast-backward\"></i> "
+}, {
+	"name": "Font awesome - fast-forward",
+	"trigger": "fa-fast-forward",
+	"usage": "fa-fast-forward",
+	"description": "fa-fast-forward",
+	"template": "<i class=\"fa fa-fast-forward\"></i> "
+}, {
+	"name": "Font awesome - fax",
+	"trigger": "fa-fax",
+	"usage": "fa-fax",
+	"description": "fa-fax",
+	"template": "<i class=\"fa fa-fax\"></i> "
+}, {
+	"name": "Font awesome - female",
+	"trigger": "fa-female",
+	"usage": "fa-female",
+	"description": "fa-female",
+	"template": "<i class=\"fa fa-female\"></i> "
+}, {
+	"name": "Font awesome - fighter-jet",
+	"trigger": "fa-fighter-jet",
+	"usage": "fa-fighter-jet",
+	"description": "fa-fighter-jet",
+	"template": "<i class=\"fa fa-fighter-jet\"></i> "
+}, {
+	"name": "Font awesome - file",
+	"trigger": "fa-file",
+	"usage": "fa-file",
+	"description": "fa-file",
+	"template": "<i class=\"fa fa-file\"></i> "
+}, {
+	"name": "Font awesome - file-archive-o",
+	"trigger": "fa-file-archive-o",
+	"usage": "fa-file-archive-o",
+	"description": "fa-file-archive-o",
+	"template": "<i class=\"fa fa-file-archive-o\"></i> "
+}, {
+	"name": "Font awesome - file-audio-o",
+	"trigger": "fa-file-audio-o",
+	"usage": "fa-file-audio-o",
+	"description": "fa-file-audio-o",
+	"template": "<i class=\"fa fa-file-audio-o\"></i> "
+}, {
+	"name": "Font awesome - file-code-o",
+	"trigger": "fa-file-code-o",
+	"usage": "fa-file-code-o",
+	"description": "fa-file-code-o",
+	"template": "<i class=\"fa fa-file-code-o\"></i> "
+}, {
+	"name": "Font awesome - file-excel-o",
+	"trigger": "fa-file-excel-o",
+	"usage": "fa-file-excel-o",
+	"description": "fa-file-excel-o",
+	"template": "<i class=\"fa fa-file-excel-o\"></i> "
+}, {
+	"name": "Font awesome - file-image-o",
+	"trigger": "fa-file-image-o",
+	"usage": "fa-file-image-o",
+	"description": "fa-file-image-o",
+	"template": "<i class=\"fa fa-file-image-o\"></i> "
+}, {
+	"name": "Font awesome - file-movie-o",
+	"trigger": "fa-file-movie-o",
+	"usage": "fa-file-movie-o",
+	"description": "fa-file-movie-o",
+	"template": "<i class=\"fa fa-file-movie-o\"></i> "
+}, {
+	"name": "Font awesome - file-o",
+	"trigger": "fa-file-o",
+	"usage": "fa-file-o",
+	"description": "fa-file-o",
+	"template": "<i class=\"fa fa-file-o\"></i> "
+}, {
+	"name": "Font awesome - file-pdf-o",
+	"trigger": "fa-file-pdf-o",
+	"usage": "fa-file-pdf-o",
+	"description": "fa-file-pdf-o",
+	"template": "<i class=\"fa fa-file-pdf-o\"></i> "
+}, {
+	"name": "Font awesome - file-photo-o",
+	"trigger": "fa-file-photo-o",
+	"usage": "fa-file-photo-o",
+	"description": "fa-file-photo-o",
+	"template": "<i class=\"fa fa-file-photo-o\"></i> "
+}, {
+	"name": "Font awesome - file-picture-o",
+	"trigger": "fa-file-picture-o",
+	"usage": "fa-file-picture-o",
+	"description": "fa-file-picture-o",
+	"template": "<i class=\"fa fa-file-picture-o\"></i> "
+}, {
+	"name": "Font awesome - file-powerpoint-o",
+	"trigger": "fa-file-powerpoint-o",
+	"usage": "fa-file-powerpoint-o",
+	"description": "fa-file-powerpoint-o",
+	"template": "<i class=\"fa fa-file-powerpoint-o\"></i> "
+}, {
+	"name": "Font awesome - file-sound-o",
+	"trigger": "fa-file-sound-o",
+	"usage": "fa-file-sound-o",
+	"description": "fa-file-sound-o",
+	"template": "<i class=\"fa fa-file-sound-o\"></i> "
+}, {
+	"name": "Font awesome - file-text",
+	"trigger": "fa-file-text",
+	"usage": "fa-file-text",
+	"description": "fa-file-text",
+	"template": "<i class=\"fa fa-file-text\"></i> "
+}, {
+	"name": "Font awesome - file-text-o",
+	"trigger": "fa-file-text-o",
+	"usage": "fa-file-text-o",
+	"description": "fa-file-text-o",
+	"template": "<i class=\"fa fa-file-text-o\"></i> "
+}, {
+	"name": "Font awesome - file-video-o",
+	"trigger": "fa-file-video-o",
+	"usage": "fa-file-video-o",
+	"description": "fa-file-video-o",
+	"template": "<i class=\"fa fa-file-video-o\"></i> "
+}, {
+	"name": "Font awesome - file-word-o",
+	"trigger": "fa-file-word-o",
+	"usage": "fa-file-word-o",
+	"description": "fa-file-word-o",
+	"template": "<i class=\"fa fa-file-word-o\"></i> "
+}, {
+	"name": "Font awesome - file-zip-o",
+	"trigger": "fa-file-zip-o",
+	"usage": "fa-file-zip-o",
+	"description": "fa-file-zip-o",
+	"template": "<i class=\"fa fa-file-zip-o\"></i> "
+}, {
+	"name": "Font awesome - files-o",
+	"trigger": "fa-files-o",
+	"usage": "fa-files-o",
+	"description": "fa-files-o",
+	"template": "<i class=\"fa fa-files-o\"></i> "
+}, {
+	"name": "Font awesome - film",
+	"trigger": "fa-film",
+	"usage": "fa-film",
+	"description": "fa-film",
+	"template": "<i class=\"fa fa-film\"></i> "
+}, {
+	"name": "Font awesome - filter",
+	"trigger": "fa-filter",
+	"usage": "fa-filter",
+	"description": "fa-filter",
+	"template": "<i class=\"fa fa-filter\"></i> "
+}, {
+	"name": "Font awesome - fire",
+	"trigger": "fa-fire",
+	"usage": "fa-fire",
+	"description": "fa-fire",
+	"template": "<i class=\"fa fa-fire\"></i> "
+}, {
+	"name": "Font awesome - fire-extinguisher",
+	"trigger": "fa-fire-extinguisher",
+	"usage": "fa-fire-extinguisher",
+	"description": "fa-fire-extinguisher",
+	"template": "<i class=\"fa fa-fire-extinguisher\"></i> "
+}, {
+	"name": "Font awesome - flag",
+	"trigger": "fa-flag",
+	"usage": "fa-flag",
+	"description": "fa-flag",
+	"template": "<i class=\"fa fa-flag\"></i> "
+}, {
+	"name": "Font awesome - flag-checkered",
+	"trigger": "fa-flag-checkered",
+	"usage": "fa-flag-checkered",
+	"description": "fa-flag-checkered",
+	"template": "<i class=\"fa fa-flag-checkered\"></i> "
+}, {
+	"name": "Font awesome - flag-o",
+	"trigger": "fa-flag-o",
+	"usage": "fa-flag-o",
+	"description": "fa-flag-o",
+	"template": "<i class=\"fa fa-flag-o\"></i> "
+}, {
+	"name": "Font awesome - flash",
+	"trigger": "fa-flash",
+	"usage": "fa-flash",
+	"description": "fa-flash",
+	"template": "<i class=\"fa fa-flash\"></i> "
+}, {
+	"name": "Font awesome - flask",
+	"trigger": "fa-flask",
+	"usage": "fa-flask",
+	"description": "fa-flask",
+	"template": "<i class=\"fa fa-flask\"></i> "
+}, {
+	"name": "Font awesome - flickr",
+	"trigger": "fa-flickr",
+	"usage": "fa-flickr",
+	"description": "fa-flickr",
+	"template": "<i class=\"fa fa-flickr\"></i> "
+}, {
+	"name": "Font awesome - floppy-o",
+	"trigger": "fa-floppy-o",
+	"usage": "fa-floppy-o",
+	"description": "fa-floppy-o",
+	"template": "<i class=\"fa fa-floppy-o\"></i> "
+}, {
+	"name": "Font awesome - folder",
+	"trigger": "fa-folder",
+	"usage": "fa-folder",
+	"description": "fa-folder",
+	"template": "<i class=\"fa fa-folder\"></i> "
+}, {
+	"name": "Font awesome - folder-o",
+	"trigger": "fa-folder-o",
+	"usage": "fa-folder-o",
+	"description": "fa-folder-o",
+	"template": "<i class=\"fa fa-folder-o\"></i> "
+}, {
+	"name": "Font awesome - folder-open",
+	"trigger": "fa-folder-open",
+	"usage": "fa-folder-open",
+	"description": "fa-folder-open",
+	"template": "<i class=\"fa fa-folder-open\"></i> "
+}, {
+	"name": "Font awesome - folder-open-o",
+	"trigger": "fa-folder-open-o",
+	"usage": "fa-folder-open-o",
+	"description": "fa-folder-open-o",
+	"template": "<i class=\"fa fa-folder-open-o\"></i> "
+}, {
+	"name": "Font awesome - font",
+	"trigger": "fa-font",
+	"usage": "fa-font",
+	"description": "fa-font",
+	"template": "<i class=\"fa fa-font\"></i> "
+}, {
+	"name": "Font awesome - forward",
+	"trigger": "fa-forward",
+	"usage": "fa-forward",
+	"description": "fa-forward",
+	"template": "<i class=\"fa fa-forward\"></i> "
+}, {
+	"name": "Font awesome - foursquare",
+	"trigger": "fa-foursquare",
+	"usage": "fa-foursquare",
+	"description": "fa-foursquare",
+	"template": "<i class=\"fa fa-foursquare\"></i> "
+}, {
+	"name": "Font awesome - frown-o",
+	"trigger": "fa-frown-o",
+	"usage": "fa-frown-o",
+	"description": "fa-frown-o",
+	"template": "<i class=\"fa fa-frown-o\"></i> "
+}, {
+	"name": "Font awesome - futbol-o",
+	"trigger": "fa-futbol-o",
+	"usage": "fa-futbol-o",
+	"description": "fa-futbol-o",
+	"template": "<i class=\"fa fa-futbol-o\"></i> "
+}, {
+	"name": "Font awesome - gamepad",
+	"trigger": "fa-gamepad",
+	"usage": "fa-gamepad",
+	"description": "fa-gamepad",
+	"template": "<i class=\"fa fa-gamepad\"></i> "
+}, {
+	"name": "Font awesome - gavel",
+	"trigger": "fa-gavel",
+	"usage": "fa-gavel",
+	"description": "fa-gavel",
+	"template": "<i class=\"fa fa-gavel\"></i> "
+}, {
+	"name": "Font awesome - gbp",
+	"trigger": "fa-gbp",
+	"usage": "fa-gbp",
+	"description": "fa-gbp",
+	"template": "<i class=\"fa fa-gbp\"></i> "
+}, {
+	"name": "Font awesome - ge",
+	"trigger": "fa-ge",
+	"usage": "fa-ge",
+	"description": "fa-ge",
+	"template": "<i class=\"fa fa-ge\"></i> "
+}, {
+	"name": "Font awesome - gear",
+	"trigger": "fa-gear",
+	"usage": "fa-gear",
+	"description": "fa-gear",
+	"template": "<i class=\"fa fa-gear\"></i> "
+}, {
+	"name": "Font awesome - gears",
+	"trigger": "fa-gears",
+	"usage": "fa-gears",
+	"description": "fa-gears",
+	"template": "<i class=\"fa fa-gears\"></i> "
+}, {
+	"name": "Font awesome - gift",
+	"trigger": "fa-gift",
+	"usage": "fa-gift",
+	"description": "fa-gift",
+	"template": "<i class=\"fa fa-gift\"></i> "
+}, {
+	"name": "Font awesome - git",
+	"trigger": "fa-git",
+	"usage": "fa-git",
+	"description": "fa-git",
+	"template": "<i class=\"fa fa-git\"></i> "
+}, {
+	"name": "Font awesome - git-square",
+	"trigger": "fa-git-square",
+	"usage": "fa-git-square",
+	"description": "fa-git-square",
+	"template": "<i class=\"fa fa-git-square\"></i> "
+}, {
+	"name": "Font awesome - github",
+	"trigger": "fa-github",
+	"usage": "fa-github",
+	"description": "fa-github",
+	"template": "<i class=\"fa fa-github\"></i> "
+}, {
+	"name": "Font awesome - github-alt",
+	"trigger": "fa-github-alt",
+	"usage": "fa-github-alt",
+	"description": "fa-github-alt",
+	"template": "<i class=\"fa fa-github-alt\"></i> "
+}, {
+	"name": "Font awesome - github-square",
+	"trigger": "fa-github-square",
+	"usage": "fa-github-square",
+	"description": "fa-github-square",
+	"template": "<i class=\"fa fa-github-square\"></i> "
+}, {
+	"name": "Font awesome - gittip",
+	"trigger": "fa-gittip",
+	"usage": "fa-gittip",
+	"description": "fa-gittip",
+	"template": "<i class=\"fa fa-gittip\"></i> "
+}, {
+	"name": "Font awesome - glass",
+	"trigger": "fa-glass",
+	"usage": "fa-glass",
+	"description": "fa-glass",
+	"template": "<i class=\"fa fa-glass\"></i> "
+}, {
+	"name": "Font awesome - globe",
+	"trigger": "fa-globe",
+	"usage": "fa-globe",
+	"description": "fa-globe",
+	"template": "<i class=\"fa fa-globe\"></i> "
+}, {
+	"name": "Font awesome - google",
+	"trigger": "fa-google",
+	"usage": "fa-google",
+	"description": "fa-google",
+	"template": "<i class=\"fa fa-google\"></i> "
+}, {
+	"name": "Font awesome - google-plus",
+	"trigger": "fa-google-plus",
+	"usage": "fa-google-plus",
+	"description": "fa-google-plus",
+	"template": "<i class=\"fa fa-google-plus\"></i> "
+}, {
+	"name": "Font awesome - google-plus-square",
+	"trigger": "fa-google-plus-square",
+	"usage": "fa-google-plus-square",
+	"description": "fa-google-plus-square",
+	"template": "<i class=\"fa fa-google-plus-square\"></i> "
+}, {
+	"name": "Font awesome - google-wallet",
+	"trigger": "fa-google-wallet",
+	"usage": "fa-google-wallet",
+	"description": "fa-google-wallet",
+	"template": "<i class=\"fa fa-google-wallet\"></i> "
+}, {
+	"name": "Font awesome - graduation-cap",
+	"trigger": "fa-graduation-cap",
+	"usage": "fa-graduation-cap",
+	"description": "fa-graduation-cap",
+	"template": "<i class=\"fa fa-graduation-cap\"></i> "
+}, {
+	"name": "Font awesome - group",
+	"trigger": "fa-group",
+	"usage": "fa-group",
+	"description": "fa-group",
+	"template": "<i class=\"fa fa-group\"></i> "
+}, {
+	"name": "Font awesome - h-square",
+	"trigger": "fa-h-square",
+	"usage": "fa-h-square",
+	"description": "fa-h-square",
+	"template": "<i class=\"fa fa-h-square\"></i> "
+}, {
+	"name": "Font awesome - hacker-news",
+	"trigger": "fa-hacker-news",
+	"usage": "fa-hacker-news",
+	"description": "fa-hacker-news",
+	"template": "<i class=\"fa fa-hacker-news\"></i> "
+}, {
+	"name": "Font awesome - hand-o-down",
+	"trigger": "fa-hand-o-down",
+	"usage": "fa-hand-o-down",
+	"description": "fa-hand-o-down",
+	"template": "<i class=\"fa fa-hand-o-down\"></i> "
+}, {
+	"name": "Font awesome - hand-o-left",
+	"trigger": "fa-hand-o-left",
+	"usage": "fa-hand-o-left",
+	"description": "fa-hand-o-left",
+	"template": "<i class=\"fa fa-hand-o-left\"></i> "
+}, {
+	"name": "Font awesome - hand-o-right",
+	"trigger": "fa-hand-o-right",
+	"usage": "fa-hand-o-right",
+	"description": "fa-hand-o-right",
+	"template": "<i class=\"fa fa-hand-o-right\"></i> "
+}, {
+	"name": "Font awesome - hand-o-up",
+	"trigger": "fa-hand-o-up",
+	"usage": "fa-hand-o-up",
+	"description": "fa-hand-o-up",
+	"template": "<i class=\"fa fa-hand-o-up\"></i> "
+}, {
+	"name": "Font awesome - hdd-o",
+	"trigger": "fa-hdd-o",
+	"usage": "fa-hdd-o",
+	"description": "fa-hdd-o",
+	"template": "<i class=\"fa fa-hdd-o\"></i> "
+}, {
+	"name": "Font awesome - header",
+	"trigger": "fa-header",
+	"usage": "fa-header",
+	"description": "fa-header",
+	"template": "<i class=\"fa fa-header\"></i> "
+}, {
+	"name": "Font awesome - headphones",
+	"trigger": "fa-headphones",
+	"usage": "fa-headphones",
+	"description": "fa-headphones",
+	"template": "<i class=\"fa fa-headphones\"></i> "
+}, {
+	"name": "Font awesome - heart",
+	"trigger": "fa-heart",
+	"usage": "fa-heart",
+	"description": "fa-heart",
+	"template": "<i class=\"fa fa-heart\"></i> "
+}, {
+	"name": "Font awesome - heart-o",
+	"trigger": "fa-heart-o",
+	"usage": "fa-heart-o",
+	"description": "fa-heart-o",
+	"template": "<i class=\"fa fa-heart-o\"></i> "
+}, {
+	"name": "Font awesome - history",
+	"trigger": "fa-history",
+	"usage": "fa-history",
+	"description": "fa-history",
+	"template": "<i class=\"fa fa-history\"></i> "
+}, {
+	"name": "Font awesome - home",
+	"trigger": "fa-home",
+	"usage": "fa-home",
+	"description": "fa-home",
+	"template": "<i class=\"fa fa-home\"></i> "
+}, {
+	"name": "Font awesome - hospital-o",
+	"trigger": "fa-hospital-o",
+	"usage": "fa-hospital-o",
+	"description": "fa-hospital-o",
+	"template": "<i class=\"fa fa-hospital-o\"></i> "
+}, {
+	"name": "Font awesome - html5",
+	"trigger": "fa-html5",
+	"usage": "fa-html5",
+	"description": "fa-html5",
+	"template": "<i class=\"fa fa-html5\"></i> "
+}, {
+	"name": "Font awesome - ils",
+	"trigger": "fa-ils",
+	"usage": "fa-ils",
+	"description": "fa-ils",
+	"template": "<i class=\"fa fa-ils\"></i> "
+}, {
+	"name": "Font awesome - image",
+	"trigger": "fa-image",
+	"usage": "fa-image",
+	"description": "fa-image",
+	"template": "<i class=\"fa fa-image\"></i> "
+}, {
+	"name": "Font awesome - inbox",
+	"trigger": "fa-inbox",
+	"usage": "fa-inbox",
+	"description": "fa-inbox",
+	"template": "<i class=\"fa fa-inbox\"></i> "
+}, {
+	"name": "Font awesome - indent",
+	"trigger": "fa-indent",
+	"usage": "fa-indent",
+	"description": "fa-indent",
+	"template": "<i class=\"fa fa-indent\"></i> "
+}, {
+	"name": "Font awesome - info",
+	"trigger": "fa-info",
+	"usage": "fa-info",
+	"description": "fa-info",
+	"template": "<i class=\"fa fa-info\"></i> "
+}, {
+	"name": "Font awesome - info-circle",
+	"trigger": "fa-info-circle",
+	"usage": "fa-info-circle",
+	"description": "fa-info-circle",
+	"template": "<i class=\"fa fa-info-circle\"></i> "
+}, {
+	"name": "Font awesome - inr",
+	"trigger": "fa-inr",
+	"usage": "fa-inr",
+	"description": "fa-inr",
+	"template": "<i class=\"fa fa-inr\"></i> "
+}, {
+	"name": "Font awesome - instagram",
+	"trigger": "fa-instagram",
+	"usage": "fa-instagram",
+	"description": "fa-instagram",
+	"template": "<i class=\"fa fa-instagram\"></i> "
+}, {
+	"name": "Font awesome - institution",
+	"trigger": "fa-institution",
+	"usage": "fa-institution",
+	"description": "fa-institution",
+	"template": "<i class=\"fa fa-institution\"></i> "
+}, {
+	"name": "Font awesome - ioxhost",
+	"trigger": "fa-ioxhost",
+	"usage": "fa-ioxhost",
+	"description": "fa-ioxhost",
+	"template": "<i class=\"fa fa-ioxhost\"></i> "
+}, {
+	"name": "Font awesome - italic",
+	"trigger": "fa-italic",
+	"usage": "fa-italic",
+	"description": "fa-italic",
+	"template": "<i class=\"fa fa-italic\"></i> "
+}, {
+	"name": "Font awesome - joomla",
+	"trigger": "fa-joomla",
+	"usage": "fa-joomla",
+	"description": "fa-joomla",
+	"template": "<i class=\"fa fa-joomla\"></i> "
+}, {
+	"name": "Font awesome - jpy",
+	"trigger": "fa-jpy",
+	"usage": "fa-jpy",
+	"description": "fa-jpy",
+	"template": "<i class=\"fa fa-jpy\"></i> "
+}, {
+	"name": "Font awesome - jsfiddle",
+	"trigger": "fa-jsfiddle",
+	"usage": "fa-jsfiddle",
+	"description": "fa-jsfiddle",
+	"template": "<i class=\"fa fa-jsfiddle\"></i> "
+}, {
+	"name": "Font awesome - key",
+	"trigger": "fa-key",
+	"usage": "fa-key",
+	"description": "fa-key",
+	"template": "<i class=\"fa fa-key\"></i> "
+}, {
+	"name": "Font awesome - keyboard-o",
+	"trigger": "fa-keyboard-o",
+	"usage": "fa-keyboard-o",
+	"description": "fa-keyboard-o",
+	"template": "<i class=\"fa fa-keyboard-o\"></i> "
+}, {
+	"name": "Font awesome - krw",
+	"trigger": "fa-krw",
+	"usage": "fa-krw",
+	"description": "fa-krw",
+	"template": "<i class=\"fa fa-krw\"></i> "
+}, {
+	"name": "Font awesome - language",
+	"trigger": "fa-language",
+	"usage": "fa-language",
+	"description": "fa-language",
+	"template": "<i class=\"fa fa-language\"></i> "
+}, {
+	"name": "Font awesome - laptop",
+	"trigger": "fa-laptop",
+	"usage": "fa-laptop",
+	"description": "fa-laptop",
+	"template": "<i class=\"fa fa-laptop\"></i> "
+}, {
+	"name": "Font awesome - lastfm",
+	"trigger": "fa-lastfm",
+	"usage": "fa-lastfm",
+	"description": "fa-lastfm",
+	"template": "<i class=\"fa fa-lastfm\"></i> "
+}, {
+	"name": "Font awesome - lastfm-square",
+	"trigger": "fa-lastfm-square",
+	"usage": "fa-lastfm-square",
+	"description": "fa-lastfm-square",
+	"template": "<i class=\"fa fa-lastfm-square\"></i> "
+}, {
+	"name": "Font awesome - leaf",
+	"trigger": "fa-leaf",
+	"usage": "fa-leaf",
+	"description": "fa-leaf",
+	"template": "<i class=\"fa fa-leaf\"></i> "
+}, {
+	"name": "Font awesome - legal",
+	"trigger": "fa-legal",
+	"usage": "fa-legal",
+	"description": "fa-legal",
+	"template": "<i class=\"fa fa-legal\"></i> "
+}, {
+	"name": "Font awesome - lemon-o",
+	"trigger": "fa-lemon-o",
+	"usage": "fa-lemon-o",
+	"description": "fa-lemon-o",
+	"template": "<i class=\"fa fa-lemon-o\"></i> "
+}, {
+	"name": "Font awesome - level-down",
+	"trigger": "fa-level-down",
+	"usage": "fa-level-down",
+	"description": "fa-level-down",
+	"template": "<i class=\"fa fa-level-down\"></i> "
+}, {
+	"name": "Font awesome - level-up",
+	"trigger": "fa-level-up",
+	"usage": "fa-level-up",
+	"description": "fa-level-up",
+	"template": "<i class=\"fa fa-level-up\"></i> "
+}, {
+	"name": "Font awesome - life-bouy",
+	"trigger": "fa-life-bouy",
+	"usage": "fa-life-bouy",
+	"description": "fa-life-bouy",
+	"template": "<i class=\"fa fa-life-bouy\"></i> "
+}, {
+	"name": "Font awesome - life-buoy",
+	"trigger": "fa-life-buoy",
+	"usage": "fa-life-buoy",
+	"description": "fa-life-buoy",
+	"template": "<i class=\"fa fa-life-buoy\"></i> "
+}, {
+	"name": "Font awesome - life-ring",
+	"trigger": "fa-life-ring",
+	"usage": "fa-life-ring",
+	"description": "fa-life-ring",
+	"template": "<i class=\"fa fa-life-ring\"></i> "
+}, {
+	"name": "Font awesome - life-saver",
+	"trigger": "fa-life-saver",
+	"usage": "fa-life-saver",
+	"description": "fa-life-saver",
+	"template": "<i class=\"fa fa-life-saver\"></i> "
+}, {
+	"name": "Font awesome - lightbulb-o",
+	"trigger": "fa-lightbulb-o",
+	"usage": "fa-lightbulb-o",
+	"description": "fa-lightbulb-o",
+	"template": "<i class=\"fa fa-lightbulb-o\"></i> "
+}, {
+	"name": "Font awesome - line-chart",
+	"trigger": "fa-line-chart",
+	"usage": "fa-line-chart",
+	"description": "fa-line-chart",
+	"template": "<i class=\"fa fa-line-chart\"></i> "
+}, {
+	"name": "Font awesome - link",
+	"trigger": "fa-link",
+	"usage": "fa-link",
+	"description": "fa-link",
+	"template": "<i class=\"fa fa-link\"></i> "
+}, {
+	"name": "Font awesome - linkedin",
+	"trigger": "fa-linkedin",
+	"usage": "fa-linkedin",
+	"description": "fa-linkedin",
+	"template": "<i class=\"fa fa-linkedin\"></i> "
+}, {
+	"name": "Font awesome - linkedin-square",
+	"trigger": "fa-linkedin-square",
+	"usage": "fa-linkedin-square",
+	"description": "fa-linkedin-square",
+	"template": "<i class=\"fa fa-linkedin-square\"></i> "
+}, {
+	"name": "Font awesome - linux",
+	"trigger": "fa-linux",
+	"usage": "fa-linux",
+	"description": "fa-linux",
+	"template": "<i class=\"fa fa-linux\"></i> "
+}, {
+	"name": "Font awesome - list",
+	"trigger": "fa-list",
+	"usage": "fa-list",
+	"description": "fa-list",
+	"template": "<i class=\"fa fa-list\"></i> "
+}, {
+	"name": "Font awesome - list-alt",
+	"trigger": "fa-list-alt",
+	"usage": "fa-list-alt",
+	"description": "fa-list-alt",
+	"template": "<i class=\"fa fa-list-alt\"></i> "
+}, {
+	"name": "Font awesome - list-ol",
+	"trigger": "fa-list-ol",
+	"usage": "fa-list-ol",
+	"description": "fa-list-ol",
+	"template": "<i class=\"fa fa-list-ol\"></i> "
+}, {
+	"name": "Font awesome - list-ul",
+	"trigger": "fa-list-ul",
+	"usage": "fa-list-ul",
+	"description": "fa-list-ul",
+	"template": "<i class=\"fa fa-list-ul\"></i> "
+}, {
+	"name": "Font awesome - location-arrow",
+	"trigger": "fa-location-arrow",
+	"usage": "fa-location-arrow",
+	"description": "fa-location-arrow",
+	"template": "<i class=\"fa fa-location-arrow\"></i> "
+}, {
+	"name": "Font awesome - lock",
+	"trigger": "fa-lock",
+	"usage": "fa-lock",
+	"description": "fa-lock",
+	"template": "<i class=\"fa fa-lock\"></i> "
+}, {
+	"name": "Font awesome - long-arrow-down",
+	"trigger": "fa-long-arrow-down",
+	"usage": "fa-long-arrow-down",
+	"description": "fa-long-arrow-down",
+	"template": "<i class=\"fa fa-long-arrow-down\"></i> "
+}, {
+	"name": "Font awesome - long-arrow-left",
+	"trigger": "fa-long-arrow-left",
+	"usage": "fa-long-arrow-left",
+	"description": "fa-long-arrow-left",
+	"template": "<i class=\"fa fa-long-arrow-left\"></i> "
+}, {
+	"name": "Font awesome - long-arrow-right",
+	"trigger": "fa-long-arrow-right",
+	"usage": "fa-long-arrow-right",
+	"description": "fa-long-arrow-right",
+	"template": "<i class=\"fa fa-long-arrow-right\"></i> "
+}, {
+	"name": "Font awesome - long-arrow-up",
+	"trigger": "fa-long-arrow-up",
+	"usage": "fa-long-arrow-up",
+	"description": "fa-long-arrow-up",
+	"template": "<i class=\"fa fa-long-arrow-up\"></i> "
+}, {
+	"name": "Font awesome - magic",
+	"trigger": "fa-magic",
+	"usage": "fa-magic",
+	"description": "fa-magic",
+	"template": "<i class=\"fa fa-magic\"></i> "
+}, {
+	"name": "Font awesome - magnet",
+	"trigger": "fa-magnet",
+	"usage": "fa-magnet",
+	"description": "fa-magnet",
+	"template": "<i class=\"fa fa-magnet\"></i> "
+}, {
+	"name": "Font awesome - mail-forward",
+	"trigger": "fa-mail-forward",
+	"usage": "fa-mail-forward",
+	"description": "fa-mail-forward",
+	"template": "<i class=\"fa fa-mail-forward\"></i> "
+}, {
+	"name": "Font awesome - mail-reply",
+	"trigger": "fa-mail-reply",
+	"usage": "fa-mail-reply",
+	"description": "fa-mail-reply",
+	"template": "<i class=\"fa fa-mail-reply\"></i> "
+}, {
+	"name": "Font awesome - mail-reply-all",
+	"trigger": "fa-mail-reply-all",
+	"usage": "fa-mail-reply-all",
+	"description": "fa-mail-reply-all",
+	"template": "<i class=\"fa fa-mail-reply-all\"></i> "
+}, {
+	"name": "Font awesome - male",
+	"trigger": "fa-male",
+	"usage": "fa-male",
+	"description": "fa-male",
+	"template": "<i class=\"fa fa-male\"></i> "
+}, {
+	"name": "Font awesome - map-marker",
+	"trigger": "fa-map-marker",
+	"usage": "fa-map-marker",
+	"description": "fa-map-marker",
+	"template": "<i class=\"fa fa-map-marker\"></i> "
+}, {
+	"name": "Font awesome - maxcdn",
+	"trigger": "fa-maxcdn",
+	"usage": "fa-maxcdn",
+	"description": "fa-maxcdn",
+	"template": "<i class=\"fa fa-maxcdn\"></i> "
+}, {
+	"name": "Font awesome - meanpath",
+	"trigger": "fa-meanpath",
+	"usage": "fa-meanpath",
+	"description": "fa-meanpath",
+	"template": "<i class=\"fa fa-meanpath\"></i> "
+}, {
+	"name": "Font awesome - medkit",
+	"trigger": "fa-medkit",
+	"usage": "fa-medkit",
+	"description": "fa-medkit",
+	"template": "<i class=\"fa fa-medkit\"></i> "
+}, {
+	"name": "Font awesome - meh-o",
+	"trigger": "fa-meh-o",
+	"usage": "fa-meh-o",
+	"description": "fa-meh-o",
+	"template": "<i class=\"fa fa-meh-o\"></i> "
+}, {
+	"name": "Font awesome - microphone",
+	"trigger": "fa-microphone",
+	"usage": "fa-microphone",
+	"description": "fa-microphone",
+	"template": "<i class=\"fa fa-microphone\"></i> "
+}, {
+	"name": "Font awesome - microphone-slash",
+	"trigger": "fa-microphone-slash",
+	"usage": "fa-microphone-slash",
+	"description": "fa-microphone-slash",
+	"template": "<i class=\"fa fa-microphone-slash\"></i> "
+}, {
+	"name": "Font awesome - minus",
+	"trigger": "fa-minus",
+	"usage": "fa-minus",
+	"description": "fa-minus",
+	"template": "<i class=\"fa fa-minus\"></i> "
+}, {
+	"name": "Font awesome - minus-circle",
+	"trigger": "fa-minus-circle",
+	"usage": "fa-minus-circle",
+	"description": "fa-minus-circle",
+	"template": "<i class=\"fa fa-minus-circle\"></i> "
+}, {
+	"name": "Font awesome - minus-square",
+	"trigger": "fa-minus-square",
+	"usage": "fa-minus-square",
+	"description": "fa-minus-square",
+	"template": "<i class=\"fa fa-minus-square\"></i> "
+}, {
+	"name": "Font awesome - minus-square-o",
+	"trigger": "fa-minus-square-o",
+	"usage": "fa-minus-square-o",
+	"description": "fa-minus-square-o",
+	"template": "<i class=\"fa fa-minus-square-o\"></i> "
+}, {
+	"name": "Font awesome - mobile",
+	"trigger": "fa-mobile",
+	"usage": "fa-mobile",
+	"description": "fa-mobile",
+	"template": "<i class=\"fa fa-mobile\"></i> "
+}, {
+	"name": "Font awesome - mobile-phone",
+	"trigger": "fa-mobile-phone",
+	"usage": "fa-mobile-phone",
+	"description": "fa-mobile-phone",
+	"template": "<i class=\"fa fa-mobile-phone\"></i> "
+}, {
+	"name": "Font awesome - money",
+	"trigger": "fa-money",
+	"usage": "fa-money",
+	"description": "fa-money",
+	"template": "<i class=\"fa fa-money\"></i> "
+}, {
+	"name": "Font awesome - moon-o",
+	"trigger": "fa-moon-o",
+	"usage": "fa-moon-o",
+	"description": "fa-moon-o",
+	"template": "<i class=\"fa fa-moon-o\"></i> "
+}, {
+	"name": "Font awesome - mortar-board",
+	"trigger": "fa-mortar-board",
+	"usage": "fa-mortar-board",
+	"description": "fa-mortar-board",
+	"template": "<i class=\"fa fa-mortar-board\"></i> "
+}, {
+	"name": "Font awesome - music",
+	"trigger": "fa-music",
+	"usage": "fa-music",
+	"description": "fa-music",
+	"template": "<i class=\"fa fa-music\"></i> "
+}, {
+	"name": "Font awesome - navicon",
+	"trigger": "fa-navicon",
+	"usage": "fa-navicon",
+	"description": "fa-navicon",
+	"template": "<i class=\"fa fa-navicon\"></i> "
+}, {
+	"name": "Font awesome - newspaper-o",
+	"trigger": "fa-newspaper-o",
+	"usage": "fa-newspaper-o",
+	"description": "fa-newspaper-o",
+	"template": "<i class=\"fa fa-newspaper-o\"></i> "
+}, {
+	"name": "Font awesome - openid",
+	"trigger": "fa-openid",
+	"usage": "fa-openid",
+	"description": "fa-openid",
+	"template": "<i class=\"fa fa-openid\"></i> "
+}, {
+	"name": "Font awesome - outdent",
+	"trigger": "fa-outdent",
+	"usage": "fa-outdent",
+	"description": "fa-outdent",
+	"template": "<i class=\"fa fa-outdent\"></i> "
+}, {
+	"name": "Font awesome - pagelines",
+	"trigger": "fa-pagelines",
+	"usage": "fa-pagelines",
+	"description": "fa-pagelines",
+	"template": "<i class=\"fa fa-pagelines\"></i> "
+}, {
+	"name": "Font awesome - paint-brush",
+	"trigger": "fa-paint-brush",
+	"usage": "fa-paint-brush",
+	"description": "fa-paint-brush",
+	"template": "<i class=\"fa fa-paint-brush\"></i> "
+}, {
+	"name": "Font awesome - paper-plane",
+	"trigger": "fa-paper-plane",
+	"usage": "fa-paper-plane",
+	"description": "fa-paper-plane",
+	"template": "<i class=\"fa fa-paper-plane\"></i> "
+}, {
+	"name": "Font awesome - paper-plane-o",
+	"trigger": "fa-paper-plane-o",
+	"usage": "fa-paper-plane-o",
+	"description": "fa-paper-plane-o",
+	"template": "<i class=\"fa fa-paper-plane-o\"></i> "
+}, {
+	"name": "Font awesome - paperclip",
+	"trigger": "fa-paperclip",
+	"usage": "fa-paperclip",
+	"description": "fa-paperclip",
+	"template": "<i class=\"fa fa-paperclip\"></i> "
+}, {
+	"name": "Font awesome - paragraph",
+	"trigger": "fa-paragraph",
+	"usage": "fa-paragraph",
+	"description": "fa-paragraph",
+	"template": "<i class=\"fa fa-paragraph\"></i> "
+}, {
+	"name": "Font awesome - paste",
+	"trigger": "fa-paste",
+	"usage": "fa-paste",
+	"description": "fa-paste",
+	"template": "<i class=\"fa fa-paste\"></i> "
+}, {
+	"name": "Font awesome - pause",
+	"trigger": "fa-pause",
+	"usage": "fa-pause",
+	"description": "fa-pause",
+	"template": "<i class=\"fa fa-pause\"></i> "
+}, {
+	"name": "Font awesome - paw",
+	"trigger": "fa-paw",
+	"usage": "fa-paw",
+	"description": "fa-paw",
+	"template": "<i class=\"fa fa-paw\"></i> "
+}, {
+	"name": "Font awesome - paypal",
+	"trigger": "fa-paypal",
+	"usage": "fa-paypal",
+	"description": "fa-paypal",
+	"template": "<i class=\"fa fa-paypal\"></i> "
+}, {
+	"name": "Font awesome - pencil",
+	"trigger": "fa-pencil",
+	"usage": "fa-pencil",
+	"description": "fa-pencil",
+	"template": "<i class=\"fa fa-pencil\"></i> "
+}, {
+	"name": "Font awesome - pencil-square",
+	"trigger": "fa-pencil-square",
+	"usage": "fa-pencil-square",
+	"description": "fa-pencil-square",
+	"template": "<i class=\"fa fa-pencil-square\"></i> "
+}, {
+	"name": "Font awesome - pencil-square-o",
+	"trigger": "fa-pencil-square-o",
+	"usage": "fa-pencil-square-o",
+	"description": "fa-pencil-square-o",
+	"template": "<i class=\"fa fa-pencil-square-o\"></i> "
+}, {
+	"name": "Font awesome - phone",
+	"trigger": "fa-phone",
+	"usage": "fa-phone",
+	"description": "fa-phone",
+	"template": "<i class=\"fa fa-phone\"></i> "
+}, {
+	"name": "Font awesome - phone-square",
+	"trigger": "fa-phone-square",
+	"usage": "fa-phone-square",
+	"description": "fa-phone-square",
+	"template": "<i class=\"fa fa-phone-square\"></i> "
+}, {
+	"name": "Font awesome - photo",
+	"trigger": "fa-photo",
+	"usage": "fa-photo",
+	"description": "fa-photo",
+	"template": "<i class=\"fa fa-photo\"></i> "
+}, {
+	"name": "Font awesome - picture-o",
+	"trigger": "fa-picture-o",
+	"usage": "fa-picture-o",
+	"description": "fa-picture-o",
+	"template": "<i class=\"fa fa-picture-o\"></i> "
+}, {
+	"name": "Font awesome - pie-chart",
+	"trigger": "fa-pie-chart",
+	"usage": "fa-pie-chart",
+	"description": "fa-pie-chart",
+	"template": "<i class=\"fa fa-pie-chart\"></i> "
+}, {
+	"name": "Font awesome - pied-piper",
+	"trigger": "fa-pied-piper",
+	"usage": "fa-pied-piper",
+	"description": "fa-pied-piper",
+	"template": "<i class=\"fa fa-pied-piper\"></i> "
+}, {
+	"name": "Font awesome - pied-piper-alt",
+	"trigger": "fa-pied-piper-alt",
+	"usage": "fa-pied-piper-alt",
+	"description": "fa-pied-piper-alt",
+	"template": "<i class=\"fa fa-pied-piper-alt\"></i> "
+}, {
+	"name": "Font awesome - pinterest",
+	"trigger": "fa-pinterest",
+	"usage": "fa-pinterest",
+	"description": "fa-pinterest",
+	"template": "<i class=\"fa fa-pinterest\"></i> "
+}, {
+	"name": "Font awesome - pinterest-square",
+	"trigger": "fa-pinterest-square",
+	"usage": "fa-pinterest-square",
+	"description": "fa-pinterest-square",
+	"template": "<i class=\"fa fa-pinterest-square\"></i> "
+}, {
+	"name": "Font awesome - plane",
+	"trigger": "fa-plane",
+	"usage": "fa-plane",
+	"description": "fa-plane",
+	"template": "<i class=\"fa fa-plane\"></i> "
+}, {
+	"name": "Font awesome - play",
+	"trigger": "fa-play",
+	"usage": "fa-play",
+	"description": "fa-play",
+	"template": "<i class=\"fa fa-play\"></i> "
+}, {
+	"name": "Font awesome - play-circle",
+	"trigger": "fa-play-circle",
+	"usage": "fa-play-circle",
+	"description": "fa-play-circle",
+	"template": "<i class=\"fa fa-play-circle\"></i> "
+}, {
+	"name": "Font awesome - play-circle-o",
+	"trigger": "fa-play-circle-o",
+	"usage": "fa-play-circle-o",
+	"description": "fa-play-circle-o",
+	"template": "<i class=\"fa fa-play-circle-o\"></i> "
+}, {
+	"name": "Font awesome - plug",
+	"trigger": "fa-plug",
+	"usage": "fa-plug",
+	"description": "fa-plug",
+	"template": "<i class=\"fa fa-plug\"></i> "
+}, {
+	"name": "Font awesome - plus",
+	"trigger": "fa-plus",
+	"usage": "fa-plus",
+	"description": "fa-plus",
+	"template": "<i class=\"fa fa-plus\"></i> "
+}, {
+	"name": "Font awesome - plus-circle",
+	"trigger": "fa-plus-circle",
+	"usage": "fa-plus-circle",
+	"description": "fa-plus-circle",
+	"template": "<i class=\"fa fa-plus-circle\"></i> "
+}, {
+	"name": "Font awesome - plus-square",
+	"trigger": "fa-plus-square",
+	"usage": "fa-plus-square",
+	"description": "fa-plus-square",
+	"template": "<i class=\"fa fa-plus-square\"></i> "
+}, {
+	"name": "Font awesome - plus-square-o",
+	"trigger": "fa-plus-square-o",
+	"usage": "fa-plus-square-o",
+	"description": "fa-plus-square-o",
+	"template": "<i class=\"fa fa-plus-square-o\"></i> "
+}, {
+	"name": "Font awesome - power-off",
+	"trigger": "fa-power-off",
+	"usage": "fa-power-off",
+	"description": "fa-power-off",
+	"template": "<i class=\"fa fa-power-off\"></i> "
+}, {
+	"name": "Font awesome - print",
+	"trigger": "fa-print",
+	"usage": "fa-print",
+	"description": "fa-print",
+	"template": "<i class=\"fa fa-print\"></i> "
+}, {
+	"name": "Font awesome - puzzle-piece",
+	"trigger": "fa-puzzle-piece",
+	"usage": "fa-puzzle-piece",
+	"description": "fa-puzzle-piece",
+	"template": "<i class=\"fa fa-puzzle-piece\"></i> "
+}, {
+	"name": "Font awesome - qq",
+	"trigger": "fa-qq",
+	"usage": "fa-qq",
+	"description": "fa-qq",
+	"template": "<i class=\"fa fa-qq\"></i> "
+}, {
+	"name": "Font awesome - qrcode",
+	"trigger": "fa-qrcode",
+	"usage": "fa-qrcode",
+	"description": "fa-qrcode",
+	"template": "<i class=\"fa fa-qrcode\"></i> "
+}, {
+	"name": "Font awesome - question",
+	"trigger": "fa-question",
+	"usage": "fa-question",
+	"description": "fa-question",
+	"template": "<i class=\"fa fa-question\"></i> "
+}, {
+	"name": "Font awesome - question-circle",
+	"trigger": "fa-question-circle",
+	"usage": "fa-question-circle",
+	"description": "fa-question-circle",
+	"template": "<i class=\"fa fa-question-circle\"></i> "
+}, {
+	"name": "Font awesome - quote-left",
+	"trigger": "fa-quote-left",
+	"usage": "fa-quote-left",
+	"description": "fa-quote-left",
+	"template": "<i class=\"fa fa-quote-left\"></i> "
+}, {
+	"name": "Font awesome - quote-right",
+	"trigger": "fa-quote-right",
+	"usage": "fa-quote-right",
+	"description": "fa-quote-right",
+	"template": "<i class=\"fa fa-quote-right\"></i> "
+}, {
+	"name": "Font awesome - ra",
+	"trigger": "fa-ra",
+	"usage": "fa-ra",
+	"description": "fa-ra",
+	"template": "<i class=\"fa fa-ra\"></i> "
+}, {
+	"name": "Font awesome - random",
+	"trigger": "fa-random",
+	"usage": "fa-random",
+	"description": "fa-random",
+	"template": "<i class=\"fa fa-random\"></i> "
+}, {
+	"name": "Font awesome - rebel",
+	"trigger": "fa-rebel",
+	"usage": "fa-rebel",
+	"description": "fa-rebel",
+	"template": "<i class=\"fa fa-rebel\"></i> "
+}, {
+	"name": "Font awesome - recycle",
+	"trigger": "fa-recycle",
+	"usage": "fa-recycle",
+	"description": "fa-recycle",
+	"template": "<i class=\"fa fa-recycle\"></i> "
+}, {
+	"name": "Font awesome - reddit",
+	"trigger": "fa-reddit",
+	"usage": "fa-reddit",
+	"description": "fa-reddit",
+	"template": "<i class=\"fa fa-reddit\"></i> "
+}, {
+	"name": "Font awesome - reddit-square",
+	"trigger": "fa-reddit-square",
+	"usage": "fa-reddit-square",
+	"description": "fa-reddit-square",
+	"template": "<i class=\"fa fa-reddit-square\"></i> "
+}, {
+	"name": "Font awesome - refresh",
+	"trigger": "fa-refresh",
+	"usage": "fa-refresh",
+	"description": "fa-refresh",
+	"template": "<i class=\"fa fa-refresh\"></i> "
+}, {
+	"name": "Font awesome - remove",
+	"trigger": "fa-remove",
+	"usage": "fa-remove",
+	"description": "fa-remove",
+	"template": "<i class=\"fa fa-remove\"></i> "
+}, {
+	"name": "Font awesome - renren",
+	"trigger": "fa-renren",
+	"usage": "fa-renren",
+	"description": "fa-renren",
+	"template": "<i class=\"fa fa-renren\"></i> "
+}, {
+	"name": "Font awesome - reorder",
+	"trigger": "fa-reorder",
+	"usage": "fa-reorder",
+	"description": "fa-reorder",
+	"template": "<i class=\"fa fa-reorder\"></i> "
+}, {
+	"name": "Font awesome - repeat",
+	"trigger": "fa-repeat",
+	"usage": "fa-repeat",
+	"description": "fa-repeat",
+	"template": "<i class=\"fa fa-repeat\"></i> "
+}, {
+	"name": "Font awesome - reply",
+	"trigger": "fa-reply",
+	"usage": "fa-reply",
+	"description": "fa-reply",
+	"template": "<i class=\"fa fa-reply\"></i> "
+}, {
+	"name": "Font awesome - reply-all",
+	"trigger": "fa-reply-all",
+	"usage": "fa-reply-all",
+	"description": "fa-reply-all",
+	"template": "<i class=\"fa fa-reply-all\"></i> "
+}, {
+	"name": "Font awesome - retweet",
+	"trigger": "fa-retweet",
+	"usage": "fa-retweet",
+	"description": "fa-retweet",
+	"template": "<i class=\"fa fa-retweet\"></i> "
+}, {
+	"name": "Font awesome - rmb",
+	"trigger": "fa-rmb",
+	"usage": "fa-rmb",
+	"description": "fa-rmb",
+	"template": "<i class=\"fa fa-rmb\"></i> "
+}, {
+	"name": "Font awesome - road",
+	"trigger": "fa-road",
+	"usage": "fa-road",
+	"description": "fa-road",
+	"template": "<i class=\"fa fa-road\"></i> "
+}, {
+	"name": "Font awesome - rocket",
+	"trigger": "fa-rocket",
+	"usage": "fa-rocket",
+	"description": "fa-rocket",
+	"template": "<i class=\"fa fa-rocket\"></i> "
+}, {
+	"name": "Font awesome - rotate-left",
+	"trigger": "fa-rotate-left",
+	"usage": "fa-rotate-left",
+	"description": "fa-rotate-left",
+	"template": "<i class=\"fa fa-rotate-left\"></i> "
+}, {
+	"name": "Font awesome - rotate-right",
+	"trigger": "fa-rotate-right",
+	"usage": "fa-rotate-right",
+	"description": "fa-rotate-right",
+	"template": "<i class=\"fa fa-rotate-right\"></i> "
+}, {
+	"name": "Font awesome - rouble",
+	"trigger": "fa-rouble",
+	"usage": "fa-rouble",
+	"description": "fa-rouble",
+	"template": "<i class=\"fa fa-rouble\"></i> "
+}, {
+	"name": "Font awesome - rss",
+	"trigger": "fa-rss",
+	"usage": "fa-rss",
+	"description": "fa-rss",
+	"template": "<i class=\"fa fa-rss\"></i> "
+}, {
+	"name": "Font awesome - rss-square",
+	"trigger": "fa-rss-square",
+	"usage": "fa-rss-square",
+	"description": "fa-rss-square",
+	"template": "<i class=\"fa fa-rss-square\"></i> "
+}, {
+	"name": "Font awesome - rub",
+	"trigger": "fa-rub",
+	"usage": "fa-rub",
+	"description": "fa-rub",
+	"template": "<i class=\"fa fa-rub\"></i> "
+}, {
+	"name": "Font awesome - ruble",
+	"trigger": "fa-ruble",
+	"usage": "fa-ruble",
+	"description": "fa-ruble",
+	"template": "<i class=\"fa fa-ruble\"></i> "
+}, {
+	"name": "Font awesome - rupee",
+	"trigger": "fa-rupee",
+	"usage": "fa-rupee",
+	"description": "fa-rupee",
+	"template": "<i class=\"fa fa-rupee\"></i> "
+}, {
+	"name": "Font awesome - save",
+	"trigger": "fa-save",
+	"usage": "fa-save",
+	"description": "fa-save",
+	"template": "<i class=\"fa fa-save\"></i> "
+}, {
+	"name": "Font awesome - scissors",
+	"trigger": "fa-scissors",
+	"usage": "fa-scissors",
+	"description": "fa-scissors",
+	"template": "<i class=\"fa fa-scissors\"></i> "
+}, {
+	"name": "Font awesome - search",
+	"trigger": "fa-search",
+	"usage": "fa-search",
+	"description": "fa-search",
+	"template": "<i class=\"fa fa-search\"></i> "
+}, {
+	"name": "Font awesome - search-minus",
+	"trigger": "fa-search-minus",
+	"usage": "fa-search-minus",
+	"description": "fa-search-minus",
+	"template": "<i class=\"fa fa-search-minus\"></i> "
+}, {
+	"name": "Font awesome - search-plus",
+	"trigger": "fa-search-plus",
+	"usage": "fa-search-plus",
+	"description": "fa-search-plus",
+	"template": "<i class=\"fa fa-search-plus\"></i> "
+}, {
+	"name": "Font awesome - send",
+	"trigger": "fa-send",
+	"usage": "fa-send",
+	"description": "fa-send",
+	"template": "<i class=\"fa fa-send\"></i> "
+}, {
+	"name": "Font awesome - send-o",
+	"trigger": "fa-send-o",
+	"usage": "fa-send-o",
+	"description": "fa-send-o",
+	"template": "<i class=\"fa fa-send-o\"></i> "
+}, {
+	"name": "Font awesome - share",
+	"trigger": "fa-share",
+	"usage": "fa-share",
+	"description": "fa-share",
+	"template": "<i class=\"fa fa-share\"></i> "
+}, {
+	"name": "Font awesome - share-alt",
+	"trigger": "fa-share-alt",
+	"usage": "fa-share-alt",
+	"description": "fa-share-alt",
+	"template": "<i class=\"fa fa-share-alt\"></i> "
+}, {
+	"name": "Font awesome - share-alt-square",
+	"trigger": "fa-share-alt-square",
+	"usage": "fa-share-alt-square",
+	"description": "fa-share-alt-square",
+	"template": "<i class=\"fa fa-share-alt-square\"></i> "
+}, {
+	"name": "Font awesome - share-square",
+	"trigger": "fa-share-square",
+	"usage": "fa-share-square",
+	"description": "fa-share-square",
+	"template": "<i class=\"fa fa-share-square\"></i> "
+}, {
+	"name": "Font awesome - share-square-o",
+	"trigger": "fa-share-square-o",
+	"usage": "fa-share-square-o",
+	"description": "fa-share-square-o",
+	"template": "<i class=\"fa fa-share-square-o\"></i> "
+}, {
+	"name": "Font awesome - shekel",
+	"trigger": "fa-shekel",
+	"usage": "fa-shekel",
+	"description": "fa-shekel",
+	"template": "<i class=\"fa fa-shekel\"></i> "
+}, {
+	"name": "Font awesome - sheqel",
+	"trigger": "fa-sheqel",
+	"usage": "fa-sheqel",
+	"description": "fa-sheqel",
+	"template": "<i class=\"fa fa-sheqel\"></i> "
+}, {
+	"name": "Font awesome - shield",
+	"trigger": "fa-shield",
+	"usage": "fa-shield",
+	"description": "fa-shield",
+	"template": "<i class=\"fa fa-shield\"></i> "
+}, {
+	"name": "Font awesome - shopping-cart",
+	"trigger": "fa-shopping-cart",
+	"usage": "fa-shopping-cart",
+	"description": "fa-shopping-cart",
+	"template": "<i class=\"fa fa-shopping-cart\"></i> "
+}, {
+	"name": "Font awesome - sign-in",
+	"trigger": "fa-sign-in",
+	"usage": "fa-sign-in",
+	"description": "fa-sign-in",
+	"template": "<i class=\"fa fa-sign-in\"></i> "
+}, {
+	"name": "Font awesome - sign-out",
+	"trigger": "fa-sign-out",
+	"usage": "fa-sign-out",
+	"description": "fa-sign-out",
+	"template": "<i class=\"fa fa-sign-out\"></i> "
+}, {
+	"name": "Font awesome - signal",
+	"trigger": "fa-signal",
+	"usage": "fa-signal",
+	"description": "fa-signal",
+	"template": "<i class=\"fa fa-signal\"></i> "
+}, {
+	"name": "Font awesome - sitemap",
+	"trigger": "fa-sitemap",
+	"usage": "fa-sitemap",
+	"description": "fa-sitemap",
+	"template": "<i class=\"fa fa-sitemap\"></i> "
+}, {
+	"name": "Font awesome - skype",
+	"trigger": "fa-skype",
+	"usage": "fa-skype",
+	"description": "fa-skype",
+	"template": "<i class=\"fa fa-skype\"></i> "
+}, {
+	"name": "Font awesome - slack",
+	"trigger": "fa-slack",
+	"usage": "fa-slack",
+	"description": "fa-slack",
+	"template": "<i class=\"fa fa-slack\"></i> "
+}, {
+	"name": "Font awesome - sliders",
+	"trigger": "fa-sliders",
+	"usage": "fa-sliders",
+	"description": "fa-sliders",
+	"template": "<i class=\"fa fa-sliders\"></i> "
+}, {
+	"name": "Font awesome - slideshare",
+	"trigger": "fa-slideshare",
+	"usage": "fa-slideshare",
+	"description": "fa-slideshare",
+	"template": "<i class=\"fa fa-slideshare\"></i> "
+}, {
+	"name": "Font awesome - smile-o",
+	"trigger": "fa-smile-o",
+	"usage": "fa-smile-o",
+	"description": "fa-smile-o",
+	"template": "<i class=\"fa fa-smile-o\"></i> "
+}, {
+	"name": "Font awesome - soccer-ball-o",
+	"trigger": "fa-soccer-ball-o",
+	"usage": "fa-soccer-ball-o",
+	"description": "fa-soccer-ball-o",
+	"template": "<i class=\"fa fa-soccer-ball-o\"></i> "
+}, {
+	"name": "Font awesome - sort",
+	"trigger": "fa-sort",
+	"usage": "fa-sort",
+	"description": "fa-sort",
+	"template": "<i class=\"fa fa-sort\"></i> "
+}, {
+	"name": "Font awesome - sort-alpha-asc",
+	"trigger": "fa-sort-alpha-asc",
+	"usage": "fa-sort-alpha-asc",
+	"description": "fa-sort-alpha-asc",
+	"template": "<i class=\"fa fa-sort-alpha-asc\"></i> "
+}, {
+	"name": "Font awesome - sort-alpha-desc",
+	"trigger": "fa-sort-alpha-desc",
+	"usage": "fa-sort-alpha-desc",
+	"description": "fa-sort-alpha-desc",
+	"template": "<i class=\"fa fa-sort-alpha-desc\"></i> "
+}, {
+	"name": "Font awesome - sort-amount-asc",
+	"trigger": "fa-sort-amount-asc",
+	"usage": "fa-sort-amount-asc",
+	"description": "fa-sort-amount-asc",
+	"template": "<i class=\"fa fa-sort-amount-asc\"></i> "
+}, {
+	"name": "Font awesome - sort-amount-desc",
+	"trigger": "fa-sort-amount-desc",
+	"usage": "fa-sort-amount-desc",
+	"description": "fa-sort-amount-desc",
+	"template": "<i class=\"fa fa-sort-amount-desc\"></i> "
+}, {
+	"name": "Font awesome - sort-asc",
+	"trigger": "fa-sort-asc",
+	"usage": "fa-sort-asc",
+	"description": "fa-sort-asc",
+	"template": "<i class=\"fa fa-sort-asc\"></i> "
+}, {
+	"name": "Font awesome - sort-desc",
+	"trigger": "fa-sort-desc",
+	"usage": "fa-sort-desc",
+	"description": "fa-sort-desc",
+	"template": "<i class=\"fa fa-sort-desc\"></i> "
+}, {
+	"name": "Font awesome - sort-down",
+	"trigger": "fa-sort-down",
+	"usage": "fa-sort-down",
+	"description": "fa-sort-down",
+	"template": "<i class=\"fa fa-sort-down\"></i> "
+}, {
+	"name": "Font awesome - sort-numeric-asc",
+	"trigger": "fa-sort-numeric-asc",
+	"usage": "fa-sort-numeric-asc",
+	"description": "fa-sort-numeric-asc",
+	"template": "<i class=\"fa fa-sort-numeric-asc\"></i> "
+}, {
+	"name": "Font awesome - sort-numeric-desc",
+	"trigger": "fa-sort-numeric-desc",
+	"usage": "fa-sort-numeric-desc",
+	"description": "fa-sort-numeric-desc",
+	"template": "<i class=\"fa fa-sort-numeric-desc\"></i> "
+}, {
+	"name": "Font awesome - sort-up",
+	"trigger": "fa-sort-up",
+	"usage": "fa-sort-up",
+	"description": "fa-sort-up",
+	"template": "<i class=\"fa fa-sort-up\"></i> "
+}, {
+	"name": "Font awesome - soundcloud",
+	"trigger": "fa-soundcloud",
+	"usage": "fa-soundcloud",
+	"description": "fa-soundcloud",
+	"template": "<i class=\"fa fa-soundcloud\"></i> "
+}, {
+	"name": "Font awesome - space-shuttle",
+	"trigger": "fa-space-shuttle",
+	"usage": "fa-space-shuttle",
+	"description": "fa-space-shuttle",
+	"template": "<i class=\"fa fa-space-shuttle\"></i> "
+}, {
+	"name": "Font awesome - spinner",
+	"trigger": "fa-spinner",
+	"usage": "fa-spinner",
+	"description": "fa-spinner",
+	"template": "<i class=\"fa fa-spinner\"></i> "
+}, {
+	"name": "Font awesome - spoon",
+	"trigger": "fa-spoon",
+	"usage": "fa-spoon",
+	"description": "fa-spoon",
+	"template": "<i class=\"fa fa-spoon\"></i> "
+}, {
+	"name": "Font awesome - spotify",
+	"trigger": "fa-spotify",
+	"usage": "fa-spotify",
+	"description": "fa-spotify",
+	"template": "<i class=\"fa fa-spotify\"></i> "
+}, {
+	"name": "Font awesome - square",
+	"trigger": "fa-square",
+	"usage": "fa-square",
+	"description": "fa-square",
+	"template": "<i class=\"fa fa-square\"></i> "
+}, {
+	"name": "Font awesome - square-o",
+	"trigger": "fa-square-o",
+	"usage": "fa-square-o",
+	"description": "fa-square-o",
+	"template": "<i class=\"fa fa-square-o\"></i> "
+}, {
+	"name": "Font awesome - stack-exchange",
+	"trigger": "fa-stack-exchange",
+	"usage": "fa-stack-exchange",
+	"description": "fa-stack-exchange",
+	"template": "<i class=\"fa fa-stack-exchange\"></i> "
+}, {
+	"name": "Font awesome - stack-overflow",
+	"trigger": "fa-stack-overflow",
+	"usage": "fa-stack-overflow",
+	"description": "fa-stack-overflow",
+	"template": "<i class=\"fa fa-stack-overflow\"></i> "
+}, {
+	"name": "Font awesome - star",
+	"trigger": "fa-star",
+	"usage": "fa-star",
+	"description": "fa-star",
+	"template": "<i class=\"fa fa-star\"></i> "
+}, {
+	"name": "Font awesome - star-half",
+	"trigger": "fa-star-half",
+	"usage": "fa-star-half",
+	"description": "fa-star-half",
+	"template": "<i class=\"fa fa-star-half\"></i> "
+}, {
+	"name": "Font awesome - star-half-empty",
+	"trigger": "fa-star-half-empty",
+	"usage": "fa-star-half-empty",
+	"description": "fa-star-half-empty",
+	"template": "<i class=\"fa fa-star-half-empty\"></i> "
+}, {
+	"name": "Font awesome - star-half-full",
+	"trigger": "fa-star-half-full",
+	"usage": "fa-star-half-full",
+	"description": "fa-star-half-full",
+	"template": "<i class=\"fa fa-star-half-full\"></i> "
+}, {
+	"name": "Font awesome - star-half-o",
+	"trigger": "fa-star-half-o",
+	"usage": "fa-star-half-o",
+	"description": "fa-star-half-o",
+	"template": "<i class=\"fa fa-star-half-o\"></i> "
+}, {
+	"name": "Font awesome - star-o",
+	"trigger": "fa-star-o",
+	"usage": "fa-star-o",
+	"description": "fa-star-o",
+	"template": "<i class=\"fa fa-star-o\"></i> "
+}, {
+	"name": "Font awesome - steam",
+	"trigger": "fa-steam",
+	"usage": "fa-steam",
+	"description": "fa-steam",
+	"template": "<i class=\"fa fa-steam\"></i> "
+}, {
+	"name": "Font awesome - steam-square",
+	"trigger": "fa-steam-square",
+	"usage": "fa-steam-square",
+	"description": "fa-steam-square",
+	"template": "<i class=\"fa fa-steam-square\"></i> "
+}, {
+	"name": "Font awesome - step-backward",
+	"trigger": "fa-step-backward",
+	"usage": "fa-step-backward",
+	"description": "fa-step-backward",
+	"template": "<i class=\"fa fa-step-backward\"></i> "
+}, {
+	"name": "Font awesome - step-forward",
+	"trigger": "fa-step-forward",
+	"usage": "fa-step-forward",
+	"description": "fa-step-forward",
+	"template": "<i class=\"fa fa-step-forward\"></i> "
+}, {
+	"name": "Font awesome - stethoscope",
+	"trigger": "fa-stethoscope",
+	"usage": "fa-stethoscope",
+	"description": "fa-stethoscope",
+	"template": "<i class=\"fa fa-stethoscope\"></i> "
+}, {
+	"name": "Font awesome - stop",
+	"trigger": "fa-stop",
+	"usage": "fa-stop",
+	"description": "fa-stop",
+	"template": "<i class=\"fa fa-stop\"></i> "
+}, {
+	"name": "Font awesome - strikethrough",
+	"trigger": "fa-strikethrough",
+	"usage": "fa-strikethrough",
+	"description": "fa-strikethrough",
+	"template": "<i class=\"fa fa-strikethrough\"></i> "
+}, {
+	"name": "Font awesome - stumbleupon",
+	"trigger": "fa-stumbleupon",
+	"usage": "fa-stumbleupon",
+	"description": "fa-stumbleupon",
+	"template": "<i class=\"fa fa-stumbleupon\"></i> "
+}, {
+	"name": "Font awesome - stumbleupon-circle",
+	"trigger": "fa-stumbleupon-circle",
+	"usage": "fa-stumbleupon-circle",
+	"description": "fa-stumbleupon-circle",
+	"template": "<i class=\"fa fa-stumbleupon-circle\"></i> "
+}, {
+	"name": "Font awesome - subscript",
+	"trigger": "fa-subscript",
+	"usage": "fa-subscript",
+	"description": "fa-subscript",
+	"template": "<i class=\"fa fa-subscript\"></i> "
+}, {
+	"name": "Font awesome - suitcase",
+	"trigger": "fa-suitcase",
+	"usage": "fa-suitcase",
+	"description": "fa-suitcase",
+	"template": "<i class=\"fa fa-suitcase\"></i> "
+}, {
+	"name": "Font awesome - sun-o",
+	"trigger": "fa-sun-o",
+	"usage": "fa-sun-o",
+	"description": "fa-sun-o",
+	"template": "<i class=\"fa fa-sun-o\"></i> "
+}, {
+	"name": "Font awesome - superscript",
+	"trigger": "fa-superscript",
+	"usage": "fa-superscript",
+	"description": "fa-superscript",
+	"template": "<i class=\"fa fa-superscript\"></i> "
+}, {
+	"name": "Font awesome - support",
+	"trigger": "fa-support",
+	"usage": "fa-support",
+	"description": "fa-support",
+	"template": "<i class=\"fa fa-support\"></i> "
+}, {
+	"name": "Font awesome - table",
+	"trigger": "fa-table",
+	"usage": "fa-table",
+	"description": "fa-table",
+	"template": "<i class=\"fa fa-table\"></i> "
+}, {
+	"name": "Font awesome - tablet",
+	"trigger": "fa-tablet",
+	"usage": "fa-tablet",
+	"description": "fa-tablet",
+	"template": "<i class=\"fa fa-tablet\"></i> "
+}, {
+	"name": "Font awesome - tachometer",
+	"trigger": "fa-tachometer",
+	"usage": "fa-tachometer",
+	"description": "fa-tachometer",
+	"template": "<i class=\"fa fa-tachometer\"></i> "
+}, {
+	"name": "Font awesome - tag",
+	"trigger": "fa-tag",
+	"usage": "fa-tag",
+	"description": "fa-tag",
+	"template": "<i class=\"fa fa-tag\"></i> "
+}, {
+	"name": "Font awesome - tags",
+	"trigger": "fa-tags",
+	"usage": "fa-tags",
+	"description": "fa-tags",
+	"template": "<i class=\"fa fa-tags\"></i> "
+}, {
+	"name": "Font awesome - tasks",
+	"trigger": "fa-tasks",
+	"usage": "fa-tasks",
+	"description": "fa-tasks",
+	"template": "<i class=\"fa fa-tasks\"></i> "
+}, {
+	"name": "Font awesome - taxi",
+	"trigger": "fa-taxi",
+	"usage": "fa-taxi",
+	"description": "fa-taxi",
+	"template": "<i class=\"fa fa-taxi\"></i> "
+}, {
+	"name": "Font awesome - tencent-weibo",
+	"trigger": "fa-tencent-weibo",
+	"usage": "fa-tencent-weibo",
+	"description": "fa-tencent-weibo",
+	"template": "<i class=\"fa fa-tencent-weibo\"></i> "
+}, {
+	"name": "Font awesome - terminal",
+	"trigger": "fa-terminal",
+	"usage": "fa-terminal",
+	"description": "fa-terminal",
+	"template": "<i class=\"fa fa-terminal\"></i> "
+}, {
+	"name": "Font awesome - text-height",
+	"trigger": "fa-text-height",
+	"usage": "fa-text-height",
+	"description": "fa-text-height",
+	"template": "<i class=\"fa fa-text-height\"></i> "
+}, {
+	"name": "Font awesome - text-width",
+	"trigger": "fa-text-width",
+	"usage": "fa-text-width",
+	"description": "fa-text-width",
+	"template": "<i class=\"fa fa-text-width\"></i> "
+}, {
+	"name": "Font awesome - th",
+	"trigger": "fa-th",
+	"usage": "fa-th",
+	"description": "fa-th",
+	"template": "<i class=\"fa fa-th\"></i> "
+}, {
+	"name": "Font awesome - th-large",
+	"trigger": "fa-th-large",
+	"usage": "fa-th-large",
+	"description": "fa-th-large",
+	"template": "<i class=\"fa fa-th-large\"></i> "
+}, {
+	"name": "Font awesome - th-list",
+	"trigger": "fa-th-list",
+	"usage": "fa-th-list",
+	"description": "fa-th-list",
+	"template": "<i class=\"fa fa-th-list\"></i> "
+}, {
+	"name": "Font awesome - thumb-tack",
+	"trigger": "fa-thumb-tack",
+	"usage": "fa-thumb-tack",
+	"description": "fa-thumb-tack",
+	"template": "<i class=\"fa fa-thumb-tack\"></i> "
+}, {
+	"name": "Font awesome - thumbs-down",
+	"trigger": "fa-thumbs-down",
+	"usage": "fa-thumbs-down",
+	"description": "fa-thumbs-down",
+	"template": "<i class=\"fa fa-thumbs-down\"></i> "
+}, {
+	"name": "Font awesome - thumbs-o-down",
+	"trigger": "fa-thumbs-o-down",
+	"usage": "fa-thumbs-o-down",
+	"description": "fa-thumbs-o-down",
+	"template": "<i class=\"fa fa-thumbs-o-down\"></i> "
+}, {
+	"name": "Font awesome - thumbs-o-up",
+	"trigger": "fa-thumbs-o-up",
+	"usage": "fa-thumbs-o-up",
+	"description": "fa-thumbs-o-up",
+	"template": "<i class=\"fa fa-thumbs-o-up\"></i> "
+}, {
+	"name": "Font awesome - thumbs-up",
+	"trigger": "fa-thumbs-up",
+	"usage": "fa-thumbs-up",
+	"description": "fa-thumbs-up",
+	"template": "<i class=\"fa fa-thumbs-up\"></i> "
+}, {
+	"name": "Font awesome - ticket",
+	"trigger": "fa-ticket",
+	"usage": "fa-ticket",
+	"description": "fa-ticket",
+	"template": "<i class=\"fa fa-ticket\"></i> "
+}, {
+	"name": "Font awesome - times",
+	"trigger": "fa-times",
+	"usage": "fa-times",
+	"description": "fa-times",
+	"template": "<i class=\"fa fa-times\"></i> "
+}, {
+	"name": "Font awesome - times-circle",
+	"trigger": "fa-times-circle",
+	"usage": "fa-times-circle",
+	"description": "fa-times-circle",
+	"template": "<i class=\"fa fa-times-circle\"></i> "
+}, {
+	"name": "Font awesome - times-circle-o",
+	"trigger": "fa-times-circle-o",
+	"usage": "fa-times-circle-o",
+	"description": "fa-times-circle-o",
+	"template": "<i class=\"fa fa-times-circle-o\"></i> "
+}, {
+	"name": "Font awesome - tint",
+	"trigger": "fa-tint",
+	"usage": "fa-tint",
+	"description": "fa-tint",
+	"template": "<i class=\"fa fa-tint\"></i> "
+}, {
+	"name": "Font awesome - toggle-down",
+	"trigger": "fa-toggle-down",
+	"usage": "fa-toggle-down",
+	"description": "fa-toggle-down",
+	"template": "<i class=\"fa fa-toggle-down\"></i> "
+}, {
+	"name": "Font awesome - toggle-left",
+	"trigger": "fa-toggle-left",
+	"usage": "fa-toggle-left",
+	"description": "fa-toggle-left",
+	"template": "<i class=\"fa fa-toggle-left\"></i> "
+}, {
+	"name": "Font awesome - toggle-off",
+	"trigger": "fa-toggle-off",
+	"usage": "fa-toggle-off",
+	"description": "fa-toggle-off",
+	"template": "<i class=\"fa fa-toggle-off\"></i> "
+}, {
+	"name": "Font awesome - toggle-on",
+	"trigger": "fa-toggle-on",
+	"usage": "fa-toggle-on",
+	"description": "fa-toggle-on",
+	"template": "<i class=\"fa fa-toggle-on\"></i> "
+}, {
+	"name": "Font awesome - toggle-right",
+	"trigger": "fa-toggle-right",
+	"usage": "fa-toggle-right",
+	"description": "fa-toggle-right",
+	"template": "<i class=\"fa fa-toggle-right\"></i> "
+}, {
+	"name": "Font awesome - toggle-up",
+	"trigger": "fa-toggle-up",
+	"usage": "fa-toggle-up",
+	"description": "fa-toggle-up",
+	"template": "<i class=\"fa fa-toggle-up\"></i> "
+}, {
+	"name": "Font awesome - trash",
+	"trigger": "fa-trash",
+	"usage": "fa-trash",
+	"description": "fa-trash",
+	"template": "<i class=\"fa fa-trash\"></i> "
+}, {
+	"name": "Font awesome - trash-o",
+	"trigger": "fa-trash-o",
+	"usage": "fa-trash-o",
+	"description": "fa-trash-o",
+	"template": "<i class=\"fa fa-trash-o\"></i> "
+}, {
+	"name": "Font awesome - tree",
+	"trigger": "fa-tree",
+	"usage": "fa-tree",
+	"description": "fa-tree",
+	"template": "<i class=\"fa fa-tree\"></i> "
+}, {
+	"name": "Font awesome - trello",
+	"trigger": "fa-trello",
+	"usage": "fa-trello",
+	"description": "fa-trello",
+	"template": "<i class=\"fa fa-trello\"></i> "
+}, {
+	"name": "Font awesome - trophy",
+	"trigger": "fa-trophy",
+	"usage": "fa-trophy",
+	"description": "fa-trophy",
+	"template": "<i class=\"fa fa-trophy\"></i> "
+}, {
+	"name": "Font awesome - truck",
+	"trigger": "fa-truck",
+	"usage": "fa-truck",
+	"description": "fa-truck",
+	"template": "<i class=\"fa fa-truck\"></i> "
+}, {
+	"name": "Font awesome - try",
+	"trigger": "fa-try",
+	"usage": "fa-try",
+	"description": "fa-try",
+	"template": "<i class=\"fa fa-try\"></i> "
+}, {
+	"name": "Font awesome - tty",
+	"trigger": "fa-tty",
+	"usage": "fa-tty",
+	"description": "fa-tty",
+	"template": "<i class=\"fa fa-tty\"></i> "
+}, {
+	"name": "Font awesome - tumblr",
+	"trigger": "fa-tumblr",
+	"usage": "fa-tumblr",
+	"description": "fa-tumblr",
+	"template": "<i class=\"fa fa-tumblr\"></i> "
+}, {
+	"name": "Font awesome - tumblr-square",
+	"trigger": "fa-tumblr-square",
+	"usage": "fa-tumblr-square",
+	"description": "fa-tumblr-square",
+	"template": "<i class=\"fa fa-tumblr-square\"></i> "
+}, {
+	"name": "Font awesome - turkish-lira",
+	"trigger": "fa-turkish-lira",
+	"usage": "fa-turkish-lira",
+	"description": "fa-turkish-lira",
+	"template": "<i class=\"fa fa-turkish-lira\"></i> "
+}, {
+	"name": "Font awesome - twitch",
+	"trigger": "fa-twitch",
+	"usage": "fa-twitch",
+	"description": "fa-twitch",
+	"template": "<i class=\"fa fa-twitch\"></i> "
+}, {
+	"name": "Font awesome - twitter",
+	"trigger": "fa-twitter",
+	"usage": "fa-twitter",
+	"description": "fa-twitter",
+	"template": "<i class=\"fa fa-twitter\"></i> "
+}, {
+	"name": "Font awesome - twitter-square",
+	"trigger": "fa-twitter-square",
+	"usage": "fa-twitter-square",
+	"description": "fa-twitter-square",
+	"template": "<i class=\"fa fa-twitter-square\"></i> "
+}, {
+	"name": "Font awesome - umbrella",
+	"trigger": "fa-umbrella",
+	"usage": "fa-umbrella",
+	"description": "fa-umbrella",
+	"template": "<i class=\"fa fa-umbrella\"></i> "
+}, {
+	"name": "Font awesome - underline",
+	"trigger": "fa-underline",
+	"usage": "fa-underline",
+	"description": "fa-underline",
+	"template": "<i class=\"fa fa-underline\"></i> "
+}, {
+	"name": "Font awesome - undo",
+	"trigger": "fa-undo",
+	"usage": "fa-undo",
+	"description": "fa-undo",
+	"template": "<i class=\"fa fa-undo\"></i> "
+}, {
+	"name": "Font awesome - university",
+	"trigger": "fa-university",
+	"usage": "fa-university",
+	"description": "fa-university",
+	"template": "<i class=\"fa fa-university\"></i> "
+}, {
+	"name": "Font awesome - unlink",
+	"trigger": "fa-unlink",
+	"usage": "fa-unlink",
+	"description": "fa-unlink",
+	"template": "<i class=\"fa fa-unlink\"></i> "
+}, {
+	"name": "Font awesome - unlock",
+	"trigger": "fa-unlock",
+	"usage": "fa-unlock",
+	"description": "fa-unlock",
+	"template": "<i class=\"fa fa-unlock\"></i> "
+}, {
+	"name": "Font awesome - unlock-alt",
+	"trigger": "fa-unlock-alt",
+	"usage": "fa-unlock-alt",
+	"description": "fa-unlock-alt",
+	"template": "<i class=\"fa fa-unlock-alt\"></i> "
+}, {
+	"name": "Font awesome - unsorted",
+	"trigger": "fa-unsorted",
+	"usage": "fa-unsorted",
+	"description": "fa-unsorted",
+	"template": "<i class=\"fa fa-unsorted\"></i> "
+}, {
+	"name": "Font awesome - upload",
+	"trigger": "fa-upload",
+	"usage": "fa-upload",
+	"description": "fa-upload",
+	"template": "<i class=\"fa fa-upload\"></i> "
+}, {
+	"name": "Font awesome - usd",
+	"trigger": "fa-usd",
+	"usage": "fa-usd",
+	"description": "fa-usd",
+	"template": "<i class=\"fa fa-usd\"></i> "
+}, {
+	"name": "Font awesome - user",
+	"trigger": "fa-user",
+	"usage": "fa-user",
+	"description": "fa-user",
+	"template": "<i class=\"fa fa-user\"></i> "
+}, {
+	"name": "Font awesome - user-md",
+	"trigger": "fa-user-md",
+	"usage": "fa-user-md",
+	"description": "fa-user-md",
+	"template": "<i class=\"fa fa-user-md\"></i> "
+}, {
+	"name": "Font awesome - users",
+	"trigger": "fa-users",
+	"usage": "fa-users",
+	"description": "fa-users",
+	"template": "<i class=\"fa fa-users\"></i> "
+}, {
+	"name": "Font awesome - video-camera",
+	"trigger": "fa-video-camera",
+	"usage": "fa-video-camera",
+	"description": "fa-video-camera",
+	"template": "<i class=\"fa fa-video-camera\"></i> "
+}, {
+	"name": "Font awesome - vimeo-square",
+	"trigger": "fa-vimeo-square",
+	"usage": "fa-vimeo-square",
+	"description": "fa-vimeo-square",
+	"template": "<i class=\"fa fa-vimeo-square\"></i> "
+}, {
+	"name": "Font awesome - vine",
+	"trigger": "fa-vine",
+	"usage": "fa-vine",
+	"description": "fa-vine",
+	"template": "<i class=\"fa fa-vine\"></i> "
+}, {
+	"name": "Font awesome - vk",
+	"trigger": "fa-vk",
+	"usage": "fa-vk",
+	"description": "fa-vk",
+	"template": "<i class=\"fa fa-vk\"></i> "
+}, {
+	"name": "Font awesome - volume-down",
+	"trigger": "fa-volume-down",
+	"usage": "fa-volume-down",
+	"description": "fa-volume-down",
+	"template": "<i class=\"fa fa-volume-down\"></i> "
+}, {
+	"name": "Font awesome - volume-off",
+	"trigger": "fa-volume-off",
+	"usage": "fa-volume-off",
+	"description": "fa-volume-off",
+	"template": "<i class=\"fa fa-volume-off\"></i> "
+}, {
+	"name": "Font awesome - volume-up",
+	"trigger": "fa-volume-up",
+	"usage": "fa-volume-up",
+	"description": "fa-volume-up",
+	"template": "<i class=\"fa fa-volume-up\"></i> "
+}, {
+	"name": "Font awesome - warning",
+	"trigger": "fa-warning",
+	"usage": "fa-warning",
+	"description": "fa-warning",
+	"template": "<i class=\"fa fa-warning\"></i> "
+}, {
+	"name": "Font awesome - wechat",
+	"trigger": "fa-wechat",
+	"usage": "fa-wechat",
+	"description": "fa-wechat",
+	"template": "<i class=\"fa fa-wechat\"></i> "
+}, {
+	"name": "Font awesome - weibo",
+	"trigger": "fa-weibo",
+	"usage": "fa-weibo",
+	"description": "fa-weibo",
+	"template": "<i class=\"fa fa-weibo\"></i> "
+}, {
+	"name": "Font awesome - weixin",
+	"trigger": "fa-weixin",
+	"usage": "fa-weixin",
+	"description": "fa-weixin",
+	"template": "<i class=\"fa fa-weixin\"></i> "
+}, {
+	"name": "Font awesome - wheelchair",
+	"trigger": "fa-wheelchair",
+	"usage": "fa-wheelchair",
+	"description": "fa-wheelchair",
+	"template": "<i class=\"fa fa-wheelchair\"></i> "
+}, {
+	"name": "Font awesome - wifi",
+	"trigger": "fa-wifi",
+	"usage": "fa-wifi",
+	"description": "fa-wifi",
+	"template": "<i class=\"fa fa-wifi\"></i> "
+}, {
+	"name": "Font awesome - windows",
+	"trigger": "fa-windows",
+	"usage": "fa-windows",
+	"description": "fa-windows",
+	"template": "<i class=\"fa fa-windows\"></i> "
+}, {
+	"name": "Font awesome - won",
+	"trigger": "fa-won",
+	"usage": "fa-won",
+	"description": "fa-won",
+	"template": "<i class=\"fa fa-won\"></i> "
+}, {
+	"name": "Font awesome - wordpress",
+	"trigger": "fa-wordpress",
+	"usage": "fa-wordpress",
+	"description": "fa-wordpress",
+	"template": "<i class=\"fa fa-wordpress\"></i> "
+}, {
+	"name": "Font awesome - wrench",
+	"trigger": "fa-wrench",
+	"usage": "fa-wrench",
+	"description": "fa-wrench",
+	"template": "<i class=\"fa fa-wrench\"></i> "
+}, {
+	"name": "Font awesome - xing",
+	"trigger": "fa-xing",
+	"usage": "fa-xing",
+	"description": "fa-xing",
+	"template": "<i class=\"fa fa-xing\"></i> "
+}, {
+	"name": "Font awesome - xing-square",
+	"trigger": "fa-xing-square",
+	"usage": "fa-xing-square",
+	"description": "fa-xing-square",
+	"template": "<i class=\"fa fa-xing-square\"></i> "
+}, {
+	"name": "Font awesome - yahoo",
+	"trigger": "fa-yahoo",
+	"usage": "fa-yahoo",
+	"description": "fa-yahoo",
+	"template": "<i class=\"fa fa-yahoo\"></i> "
+}, {
+	"name": "Font awesome - yelp",
+	"trigger": "fa-yelp",
+	"usage": "fa-yelp",
+	"description": "fa-yelp",
+	"template": "<i class=\"fa fa-yelp\"></i> "
+}, {
+	"name": "Font awesome - yen",
+	"trigger": "fa-yen",
+	"usage": "fa-yen",
+	"description": "fa-yen",
+	"template": "<i class=\"fa fa-yen\"></i> "
+}, {
+	"name": "Font awesome - youtube",
+	"trigger": "fa-youtube",
+	"usage": "fa-youtube",
+	"description": "fa-youtube",
+	"template": "<i class=\"fa fa-youtube\"></i> "
+}, {
+	"name": "Font awesome - youtube-play",
+	"trigger": "fa-youtube-play",
+	"usage": "fa-youtube-play",
+	"description": "fa-youtube-play",
+	"template": "<i class=\"fa fa-youtube-play\"></i> "
+}, {
+	"name": "Font awesome - youtube-square",
+	"trigger": "fa-youtube-square",
+	"usage": "fa-youtube-square",
+	"description": "fa-youtube-square",
+	"template": "<i class = \"fa-youtube-square\"></i> "
+}]
