@@ -23,7 +23,7 @@ Or use *'Help > Show Extensions folder'*
 
 Simply type 'fa-' + icon name.
 
-A full list of icon name can be found on [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
+The full list of icons can be found on [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
 
 ---
 
